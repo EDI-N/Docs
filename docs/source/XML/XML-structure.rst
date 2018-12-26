@@ -11,8 +11,6 @@ some
 
 .. csv-table:: someson
   :file: files/some.csv
-  :widths:  40, 7, 12, 41
-  :header-rows: 1
   :delim: "tab"
   
 ---------
