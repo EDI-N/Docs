@@ -11,7 +11,7 @@ some
 
 .. csv-table:: someson
   :file: files/some.csv
-  :quote: "|"
+  :quote: |
   
 ---------
 
