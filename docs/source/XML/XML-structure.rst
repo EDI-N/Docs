@@ -119,6 +119,7 @@ some
 
 .. csv-table:: Податкова накладна (DECLAR)
   :file: files/DECLAR.csv
+  :widths:  25, 25, 50
   :header-rows: 1
 
 
