@@ -94,6 +94,14 @@ XML-structure
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+Прибуткова накладна (COMDOC_007)
+----------------------------------
+
+.. csv-table:: Прибуткова накладна (COMDOC_007)
+  :file: files/COMDOC_007.csv
+  :widths:  40, 7, 12, 41
+  :header-rows: 1
+
 ---------
 
 Податкова накладна (DECLAR)
