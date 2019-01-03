@@ -253,7 +253,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'Docs.tex', 'Docs Documentation',
+    ('index', 'Docs.tex', 'Docs Documentation',
      'Docs', 'manual'),
 ]
 
@@ -283,7 +283,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'docs', 'Docs Documentation',
+    ('index', 'docs', 'Docs Documentation',
      [author], 1)
 ]
 
@@ -297,7 +297,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Docs', 'Docs Documentation',
+    ('index', 'Docs', 'Docs Documentation',
      author, 'Docs', 'One line description of project.',
      'Miscellaneous'),
 ]
