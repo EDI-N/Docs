@@ -7,6 +7,10 @@
       white-space: normal !important;
    }
    
+   .wy-nav-content {
+    max-width: 1200px !important;
+}
+   
    .wy-side-nav-search {background-color: #32a55c}
 
    .wy-table-responsive {
