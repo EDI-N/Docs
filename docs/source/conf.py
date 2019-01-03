@@ -42,7 +42,7 @@ templates_path = ['ntemplates']
 from recommonmark.parser import CommonMarkParser
 
 source_parsers = {
-   '.md': 'recommonmark.parser.CommonMarkParser',
+    '.md': CommonMarkParser,
 }
 
 # The suffix(es) of source filenames.
@@ -57,7 +57,7 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = 'Docs'
+project = 'EDI-N'
 copyright = '2019, EDI-N'
 author = 'EDI-N'
 
@@ -104,7 +104,7 @@ exclude_patterns = []
 #show_authors = False
 
 # The name of the Pygments (syntax highlighting) style to use.
-pygments_style = 'sphinx'
+pygments_style = 'default'
 
 
 # A list of ignored prefixes for module index sorting.
@@ -233,7 +233,7 @@ html_show_sourcelink = True
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Docsdoc'
+htmlhelp_basename = 'EDI-Ndoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -255,7 +255,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'Docs.tex', 'Docs Documentation',
+    (master_doc, 'index', 'EDI-N.tex', 'EDI-N Documentation',
      'EDI-N', 'manual'),
 ]
 
@@ -285,7 +285,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'docs', 'Docs Documentation',
+    (master_doc, 'index', 'EDI-N', 'EDI-N Documentation',
      [author], 1)
 ]
 
@@ -299,8 +299,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Docs', 'Docs Documentation',
-     author, 'Docs', 'One line description of project.',
+    (master_doc, 'index', 'EDI-N', 'EDI-N Documentation',
+     author, 'EDI-N', 'One line description of project.',
      'Miscellaneous'),
 ]
 
