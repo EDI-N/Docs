@@ -104,6 +104,8 @@ XML-structure
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+:download:`Пример COMDOC_005<examples/comdoc_005_example.xml>`
+
 ---------
 
 Прибуткова накладна (COMDOC_007)
@@ -113,6 +115,8 @@ XML-structure
   :file: files/COMDOC_007.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+:download:`Пример COMDOC_007<examples/comdoc_007_example.xml>`
 
 ---------
 
@@ -124,6 +128,8 @@ XML-structure
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+:download:`Пример COMDOC_012<examples/comdoc_012_example.xml>`
+
 ---------
 
 Акт виконаних робіт (COMDOC_013)
@@ -134,6 +140,7 @@ XML-structure
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+:download:`Пример COMDOC_013<examples/comdoc_013_018_example.xml>`
 
 ---------
 
@@ -145,6 +152,8 @@ XML-structure
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+:download:`Пример COMDOC_016<examples/comdoc_016_example.xml>`
+
 ---------
 
 Акт накладних послуг (COMDOC_018)
@@ -155,6 +164,8 @@ XML-structure
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+:download:`Пример COMDOC_018<examples/comdoc_013_018_example.xml>`
+
 ---------
 
 Повідомлення про відмову від підписання документу (COMDOC_021)
@@ -164,6 +175,8 @@ XML-structure
   :file: files/COMDOC_021.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+:download:`Пример COMDOC_021<examples/comdoc_021_example.xml>`
 
 ---------
 
