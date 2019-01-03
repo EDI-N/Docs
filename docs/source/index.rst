@@ -10,7 +10,7 @@ Contents:
 
 .. toctree::
    :caption: Documentation
-   :maxdepth: 2
+   :maxdepth: 5
    
    XML/XML-structure
    
