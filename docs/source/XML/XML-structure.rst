@@ -77,7 +77,7 @@ XML-structure
 ---------
 
 Корректировка счета (KORINVOICE)
-===============================
+================================
 
 .. csv-table:: 
   :file: files/KORINVOICE.csv
@@ -97,7 +97,7 @@ XML-structure
 ---------
 
 Акт про виявлені недоліки (COMDOC_005)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Акт про виявлені недоліки (COMDOC_005)
   :file: files/COMDOC_005.csv
@@ -105,6 +105,18 @@ XML-structure
   :header-rows: 1
 
 :download:`Пример COMDOC_005<examples/comdoc_005_example.xml>`
+
+---------
+
+Видаткова накладна (COMDOC_006)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. csv-table:: Видаткова накладна (COMDOC_006)
+  :file: files/COMDOC_006.csv
+  :widths:  40, 7, 12, 41
+  :header-rows: 1
+
+:download:`Пример COMDOC_006<examples/comdoc_006_example.xml>`
 
 ---------
 
@@ -120,8 +132,32 @@ XML-structure
 
 ---------
 
-Накладна на повернення (COMDOC_012)
+Товарна специфікація (COMDOC_008)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. csv-table:: Товарна специфікація (COMDOC_008)
+  :file: files/COMDOC_008.csv
+  :widths:  40, 7, 12, 41
+  :header-rows: 1
+
+:download:`Пример COMDOC_008<examples/comdoc_008_example.xml>`
+
+---------
+
+Повідомлення про повернення (COMDOC_011)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. csv-table:: Повідомлення про повернення (COMDOC_011)
+  :file: files/COMDOC_011.csv
+  :widths:  40, 7, 12, 41
+  :header-rows: 1
+
+:download:`Пример COMDOC_011<examples/comdoc_011_example.xml>`
+
+---------
+
+Накладна на повернення (COMDOC_012)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Накладна на повернення (COMDOC_012)
   :file: files/COMDOC_012.csv
@@ -145,7 +181,7 @@ XML-structure
 ---------
 
 Рахунок-фактура (COMDOC_016)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Рахунок-фактура (COMDOC_016)
   :file: files/COMDOC_016.csv
@@ -157,7 +193,7 @@ XML-structure
 ---------
 
 Акт накладних послуг (COMDOC_018)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Акт накладних послуг (COMDOC_018)
   :file: files/COMDOC_018.csv
@@ -169,7 +205,7 @@ XML-structure
 ---------
 
 Повідомлення про відмову від підписання документу (COMDOC_021)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. csv-table:: Повідомлення про відмову від підписання документу (COMDOC_021)
   :file: files/COMDOC_021.csv
