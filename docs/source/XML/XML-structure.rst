@@ -216,6 +216,30 @@ XML-structure
 
 ---------
 
+Накладна на переміщення (COMDOC_022)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. csv-table:: Накладна на переміщення (COMDOC_022)
+  :file: files/COMDOC_022.csv
+  :widths:  40, 7, 12, 41
+  :header-rows: 1
+
+:download:`Пример COMDOC_022<examples/comdoc_022_example.xml>`
+
+---------
+
+Специфікація послуг перевізника (COMDOC_023)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. csv-table:: Специфікація послуг перевізника (COMDOC_023)
+  :file: files/COMDOC_023.csv
+  :widths:  40, 7, 12, 41
+  :header-rows: 1
+
+:download:`Пример COMDOC_023<examples/comdoc_023_example.xml>`
+
+---------
+
 Податкова накладна (DECLAR)
 ============================
 
