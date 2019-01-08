@@ -312,6 +312,18 @@ XML-structure
 
 ---------
 
+Претензія (COMDOC_030)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. csv-table:: Претензія (COMDOC_030)
+  :file: files/COMDOC_030.csv
+  :widths:  40, 7, 12, 41
+  :header-rows: 1
+
+:download:`Пример COMDOC_030<examples/comdoc_030_example.xml>`
+
+---------
+
 Податкова накладна (DECLAR)
 ============================
 
