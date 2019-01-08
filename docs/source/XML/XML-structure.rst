@@ -276,6 +276,18 @@ XML-structure
 
 ---------
 
+Товарна накладна (COMDOC_027)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. csv-table:: Товарна накладна (COMDOC_027)
+  :file: files/COMDOC_027.csv
+  :widths:  40, 7, 12, 41
+  :header-rows: 1
+
+:download:`Пример COMDOC_027<examples/comdoc_027_example.xml>`
+
+---------
+
 Податкова накладна (DECLAR)
 ============================
 
