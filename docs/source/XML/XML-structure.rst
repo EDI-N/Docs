@@ -12,7 +12,7 @@ XML-structure
 
 ---------
 
-.. contents:: Содержание
+.. contents:: Содержание:
 
 ---------
 
