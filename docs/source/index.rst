@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to EDI-N documentation! |version|
-=========================================
+Welcome to EDI-N documentation!
+===============================
 
 Contents:
 
@@ -14,6 +14,26 @@ Contents:
    
    XML/XML-structure
    XML/examples/comdoc_021_example.xml
+
+.. toctree::
+   :caption: Общее
+   :maxdepth: 5
+
+.. toctree::
+   :caption: Retail
+   :maxdepth: 5
+
+.. toctree::
+   :caption: Интеграция
+   :maxdepth: 5
+
+.. toctree::
+   :caption: Сервисы
+   :maxdepth: 5
+
+
+
+
 
 
 
