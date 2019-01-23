@@ -18,18 +18,26 @@ Contents:
 .. toctree::
    :caption: Общее
    :maxdepth: 5
+   
+   XML/XML-structure
 
 .. toctree::
    :caption: Retail
    :maxdepth: 5
+   
+   XML/XML-structure
 
 .. toctree::
    :caption: Интеграция
    :maxdepth: 5
+   
+   XML/XML-structure
 
 .. toctree::
    :caption: Сервисы
    :maxdepth: 5
+   
+   XML/XML-structure
 
 
 
