@@ -6,21 +6,22 @@
 
 **Внимание!** Перед началом работы на web-платформе Вам на почту поступит письмо с данными для доступа.
 
-.. image:: pictures/rabota_s_platformoj_EDIN/Instrukcija_po_rabote_s_platformoj_EDIN_01.png
+.. image:: pics_rabota_s_platformoj_EDIN/Instrukcija_po_rabote_s_platformoj_EDIN_01.png
 
 Генерация пароля
 ================
 Для доступа на портал, необходимо создать пароль, для генерации пароля, откройте письмо и перейдите по ссылке из пункта 3
-фото2
 
-.. image:: XML/files/to_declar.png
+.. image:: pics_rabota_s_platformoj_EDIN/Instrukcija_po_rabote_s_platformoj_EDIN_02.png
 
 В открывшейся форме введите новый пароль, а затем повторите его и нажмите кнопку **«Сохранить»**.
 Пароль должен состоять минимум из **6 символов** и содержать цифры и буквы.
-фото3
+
+.. image:: pics_rabota_s_platformoj_EDIN/Instrukcija_po_rabote_s_platformoj_EDIN_03.png
 
 После сохранения пароля, система перенаправит Вас на главную страницу для входа. Для доступа на web-платформу введите логин из письма (пункт 2) и придуманный пароль.
-фото4
+
+.. image:: pics_rabota_s_platformoj_EDIN/Instrukcija_po_rabote_s_platformoj_EDIN_04.png
 
 Восстановление пароля
 =====================
