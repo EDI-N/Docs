@@ -19,6 +19,7 @@ Contents:
    :caption: Общее
    :maxdepth: 5
    
+   /general/rabota_s_platformoj_EDIN
    XML/XML-structure
 
 .. toctree::
