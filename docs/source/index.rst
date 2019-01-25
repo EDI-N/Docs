@@ -20,7 +20,8 @@ Contents:
    :maxdepth: 5
    
    /general/rabota_s_platformoj_EDIN
-   XML/XML-structure
+   /general/vosstanovlenie_parolja_na platforme_EDIN.rst
+  
 
 .. toctree::
    :caption: Retail
