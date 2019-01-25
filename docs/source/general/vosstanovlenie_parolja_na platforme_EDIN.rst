@@ -14,7 +14,7 @@
 
 На початковій сторінці необхідно ввести Логін та Пароль доступу та натиснути кнопку “Вхід”.
 
-.. image:: pics_vosstanovlenie_parolja_na%20platforme_EDIN/vosstanovlenie_parolja_na%20platforme_EDIN_01.png
+.. image:: pics_vosstanovlenie_parolja_na_platforme_EDIN/vosstanovlenie_parolja_na_platforme_EDIN_01.png
    :align: center
 
 2. Відновлення Паролю (якщо пароль втрачено)
