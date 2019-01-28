@@ -22,6 +22,7 @@ Contents:
    /general/rabota_s_platformoj_EDIN
    /general/vosstanovlenie_parolja_na platforme_EDIN.rst
    /general/rabota_s_platformoj_EDIN.rst
+   /general/robota_z_web-platformoju_EDIN-OBMIN.rst
   
 
 .. toctree::
