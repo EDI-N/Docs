@@ -19,7 +19,11 @@ Contents:
    :caption: Общее
    :maxdepth: 5
    
-   XML/XML-structure
+   /general/rabota_s_platformoj_EDIN
+   /general/vosstanovlenie_parolja_na platforme_EDIN.rst
+   /general/Zapolnenie_Tovarnogo_spravochnika.rst
+   /general/Podpisanie_dokumentov_-CP_na_web-platofrme_EDIN.rst
+  
 
 .. toctree::
    :caption: Retail
