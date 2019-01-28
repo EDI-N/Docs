@@ -1,4 +1,4 @@
-Подписание документа на web-платформе
+Подписание документов на web-платформе
 *****************************************
 
 Для подписания документов на Web-платформе, необходимо открыть нужный юридически значимый документ и нажать кнопку **«Подписать»**.
@@ -8,16 +8,18 @@
 
 Для первичной настройки ЭЦП, дождитесь загрузки страницы, а затем нажмите кнопку **“Считать ключи”**.
 
-ajnj02
+.. image:: pics_Podpisanie_dokumentov_ECP_na_web-platofrme_EDIN/pics_Podpisanie_dokumentov_ECP_na_web-platofrme_EDIN_02.png
+   :align: center
 
-Затем, в блоке настройки ЭЦП, нажмите на изображение ключа и выберете из каталога, где хранятся Ваши секретные ключи, соответствующий файл.
+Затем, в блоке настройки ЭЦП, нажмите на изображение ключа и выберете из каталога, в котором хранятся ваши секретные ключи, соответствующий файл.
 
-ajnj03
+.. image:: pics_Podpisanie_dokumentov_ECP_na_web-platofrme_EDIN/pics_Podpisanie_dokumentov_ECP_na_web-platofrme_EDIN_03.png
+   :align: center
 
 Виды файлов электронно-цифровой подписи
 *****************************************
 
-Если Вы используете ключи от АЦСК “Украина”, файлы подписей секретных ключей имеют расширение .ZS2 и следующие значения в именах файлов:
+Если Вы используете ключи от **АЦСК “Украина”**, файлы подписей секретных ключей имеют расширение **.ZS2**, и следующие значения в именах файлов:
 
 * Директор «DS»
 * Бухгалтер «BS»
@@ -26,28 +28,36 @@ ajnj03
 * Шифрование «C»
 * Универсальный ключ печати и шифрования «U»
 
-ajnj04
+.. image:: pics_Podpisanie_dokumentov_ECP_na_web-platofrme_EDIN/pics_Podpisanie_dokumentov_ECP_na_web-platofrme_EDIN_04.png
+   :align: center
 
-Если Вы используете ключи от АЦСК “ПриватБанк”, файлы подписей секрентных ключей имеют расширение .jks
+Если Вы используете ключи от **АЦСК “ПриватБанк”**, файлы подписей секрентных ключей имеют расширение **.jks**.
 
-ajnj05
+.. image:: pics_Podpisanie_dokumentov_ECP_na_web-platofrme_EDIN/pics_Podpisanie_dokumentov_ECP_na_web-platofrme_EDIN_05.png
+   :align: center
 
-Если Вы используете ключи от любых других АЦСК, файлы подписей секрентных ключей имеют наименование Key-6.dat
+Если Вы используете ключи от любых других АЦСК, файлы подписей секрентных ключей имеют наименование **Key-6.dat**.
 
-ajnj06
+.. image:: pics_Podpisanie_dokumentov_ECP_na_web-platofrme_EDIN/pics_Podpisanie_dokumentov_ECP_na_web-platofrme_EDIN_06.png
+   :align: center
 
 После выбора секретных ключей, введите пароли под каждым из них, а затем нажмите кнопку **“Считать ключи”**.
-ajnj07
+
+.. image:: pics_Podpisanie_dokumentov_ECP_na_web-platofrme_EDIN/pics_Podpisanie_dokumentov_ECP_na_web-platofrme_EDIN_07.png
+   :align: center
 
 
 
 При корректном считывании ключей, в блоке **“ЭЦП”** появится информация о владельцах ключей. После проверки информации нажмите кнопку **“Подписать”**.
 
-ajnj08
+.. image:: pics_Podpisanie_dokumentov_ECP_na_web-platofrme_EDIN/pics_Podpisanie_dokumentov_ECP_na_web-platofrme_EDIN_08.png
+   :align: center
 
 После подписания нажмите на кнопку **“Отправить”**.
 
-ajnj09
+.. image:: pics_Podpisanie_dokumentov_ECP_na_web-platofrme_EDIN/pics_Podpisanie_dokumentov_ECP_na_web-platofrme_EDIN_09.png
+   :align: center
+   
 **Служба Технической Поддержки**
 
 * edi-n.com
