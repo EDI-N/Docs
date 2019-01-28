@@ -21,7 +21,7 @@ Contents:
    
    /general/rabota_s_platformoj_EDIN
    /general/vosstanovlenie_parolja_na platforme_EDIN.rst
-   /general/rabota_s_platformoj_EDIN.rst
+   /general/Zapolnenie_Tovarnogo_spravochnika.rst
   
 
 .. toctree::
