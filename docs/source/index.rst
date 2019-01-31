@@ -25,6 +25,7 @@ Contents:
    /general/Podpisanie_dokumentov_-CP_na_web-platofrme_EDIN
    /general/robota_z_web-platformoju_EDIN-OBMIN
    /general/Pіdpis_komercіjnih_dokumentiіv_na_platformі_OBMIN
+   /general/Spravochnik_torgovyh_setej_Ukraina
   
 
 .. toctree::
