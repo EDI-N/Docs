@@ -12,7 +12,7 @@
 =============
 .. csv-table:: Справочник торговых сетей
   :file: tables/general_partners_01.csv
-  :widths:  30, 17, 12, 30, 30 ,30, 25, 25, 12, 25, 12
+  :widths:  30, 15, 12, 15, 15 ,15, 15, 15, 12, 15, 12
   :header-rows: 1
 
 Заказ (ORDER)
