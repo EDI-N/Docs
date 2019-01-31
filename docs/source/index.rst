@@ -32,7 +32,7 @@ Contents:
    :caption: Retail
    :maxdepth: 5
    
-   XML/XML-structure
+   /retail/formirovanie_otpravka_dokumenta_Podtverzhdenie_zakaza_ORDRSP_na_web.rst
 
 .. toctree::
    :caption: Интеграция
