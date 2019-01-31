@@ -14,6 +14,14 @@
   :file: tables/general_partners_01.csv
   :widths:  30, 15, 12, 15, 15 ,15, 15, 15, 12, 15, 12
   :header-rows: 1
+  
+Справочник_2
+=============
+.. csv-table:: Справочник сетей
+  :file: tables/general_02.csv
+  :widths:  30, 10, 10, 10, 10 ,10, 10, 10, 10, 10, 10
+  :header-rows: 1
+  
 
 Заказ (ORDER)
 =============
