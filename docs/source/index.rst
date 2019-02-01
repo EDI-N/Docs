@@ -9,13 +9,6 @@ Welcome to EDI-N documentation!
 Contents:
 
 .. toctree::
-   :caption: Documentation
-   :maxdepth: 5
-   
-   XML/XML-structure
-   XML/examples/comdoc_021_example.xml
-
-.. toctree::
    :caption: Общее
    :maxdepth: 5
    
@@ -32,23 +25,31 @@ Contents:
    :caption: Retail
    :maxdepth: 5
    
-   XML/XML-structure
+   /retail/formirovanie_otpravka_dokumenta_Podtverzhdenie_zakaza_ORDRSP_na_web
+   /retail/formirovanie_dokumenta_Uvedomlenie_ob_otgruzke_DESADV_na_platforme
+   /retail/formirovanie_dokumenta_Schetfaktura_INVOICE_na_web_platforme
+   /retail/formirovanie_dokumenta_Prilozhenie_k_uvedomleniju_ob_otgruzke_QUOTES_na_platforme
+   /retail/formirovanie_dokumenta_Instrukcija_po_transportirovke_IFTMIN_na_platforme
+   /retail/Rabota_s_dokumentom_Universalnyj_dokument_CONDRA
 
 .. toctree::
    :caption: Интеграция
    :maxdepth: 5
    
+   /integration/who_wants_to_live_forever
    XML/XML-structure
 
 .. toctree::
    :caption: Сервисы
    :maxdepth: 5
    
-   XML/XML-structure
+   /services/is_this_the_world_we_created
 
-
-
-
+.. toctree::
+   :caption: Обновления
+   :maxdepth: 5
+   
+   updates/this_just_fanta_sea
 
 
 
