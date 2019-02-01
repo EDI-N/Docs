@@ -12,8 +12,7 @@ Contents:
    :caption: Documentation
    :maxdepth: 5
    
-   XML/XML-structure
-   XML/examples/comdoc_021_example.xml
+   /retail/formirovanie_otpravka_dokumenta_Podtverzhdenie_zakaza_ORDRSP_na_web
 
 .. toctree::
    :caption: Общее
@@ -32,7 +31,8 @@ Contents:
    :caption: Retail
    :maxdepth: 5
    
-   /retail/formirovanie_otpravka_dokumenta_Podtverzhdenie_zakaza_ORDRSP_na_web.rst
+   /retail/formirovanie_otpravka_dokumenta_Podtverzhdenie_zakaza_ORDRSP_na_web
+   /retail/formirovanie_dokumenta_Uvedomlenie_ob_otgruzke_DESADV_na_platforme
 
 .. toctree::
    :caption: Интеграция
@@ -44,9 +44,7 @@ Contents:
    :caption: Сервисы
    :maxdepth: 5
    
-   XML/XML-structure
-
-
+   /retail/formirovanie_otpravka_dokumenta_Podtverzhdenie_zakaza_ORDRSP_na_web
 
 
 
