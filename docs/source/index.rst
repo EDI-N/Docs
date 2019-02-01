@@ -9,12 +9,6 @@ Welcome to EDI-N documentation!
 Contents:
 
 .. toctree::
-   :caption: Documentation
-   :maxdepth: 5
-   
-   /retail/formirovanie_otpravka_dokumenta_Podtverzhdenie_zakaza_ORDRSP_na_web
-
-.. toctree::
    :caption: Общее
    :maxdepth: 5
    
@@ -38,15 +32,20 @@ Contents:
    :caption: Интеграция
    :maxdepth: 5
    
+   /integration/who_wants_to_live_forever
    XML/XML-structure
 
 .. toctree::
    :caption: Сервисы
    :maxdepth: 5
    
-   /retail/formirovanie_otpravka_dokumenta_Podtverzhdenie_zakaza_ORDRSP_na_web
+   /services/is_this_the_world_we_created
 
-
+.. toctree::
+   :caption: Обновления
+   :maxdepth: 5
+   
+   updates/this_just_fanta_sea
 
 
 
