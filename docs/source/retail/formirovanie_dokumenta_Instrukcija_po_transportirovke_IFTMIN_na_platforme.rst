@@ -1,0 +1,2 @@
+формирование и отправка документа «Инструкция по транспортировке» (IFTMIN) на web-платформе
+formirovanie_dokumenta_Instrukcija_po_transportirovke_IFTMIN_na_platforme

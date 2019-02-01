@@ -28,6 +28,8 @@ Contents:
    /retail/formirovanie_otpravka_dokumenta_Podtverzhdenie_zakaza_ORDRSP_na_web
    /retail/formirovanie_dokumenta_Uvedomlenie_ob_otgruzke_DESADV_na_platforme
    /retail/formirovanie_dokumenta_Schetfaktura_INVOICE_na_web_platforme
+   /retail/formirovanie_dokumenta_Prilozhenie_k_uvedomleniju_ob_otgruzke_QUOTES_na_platforme
+   /retail/formirovanie_dokumenta_Instrukcija_po_transportirovke_IFTMIN_na_platforme
 
 .. toctree::
    :caption: Интеграция
