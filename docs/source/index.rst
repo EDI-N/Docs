@@ -38,13 +38,14 @@ Contents:
    :caption: Интеграция
    :maxdepth: 5
    
+   /integration/who_wants_to_live_forever.rst
    XML/XML-structure
 
 .. toctree::
    :caption: Сервисы
    :maxdepth: 5
    
-   /retail/formirovanie_otpravka_dokumenta_Podtverzhdenie_zakaza_ORDRSP_na_web
+   /services/is_this_the_world_we_created
 
 
 
