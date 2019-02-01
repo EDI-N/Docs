@@ -30,6 +30,7 @@ Contents:
    /retail/formirovanie_dokumenta_Schetfaktura_INVOICE_na_web_platforme
    /retail/formirovanie_dokumenta_Prilozhenie_k_uvedomleniju_ob_otgruzke_QUOTES_na_platforme
    /retail/formirovanie_dokumenta_Instrukcija_po_transportirovke_IFTMIN_na_platforme
+   /retail/Rabota_s_dokumentom_Universalnyj_dokument_CONDRA
 
 .. toctree::
    :caption: Интеграция
