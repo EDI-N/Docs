@@ -32,6 +32,7 @@ Contents:
    /retail/formirovanie_dokumenta_Instrukcija_po_transportirovke_IFTMIN_na_platforme
    /retail/Rabota_s_dokumentom_Universalnyj_dokument_CONDRA
    /retail/rabotа_s_Kommercheskim_dokumentom_COMDOC
+   /retail/formirovanie_Rashodnoj_nakladnoj
 
 .. toctree::
    :caption: Интеграция
