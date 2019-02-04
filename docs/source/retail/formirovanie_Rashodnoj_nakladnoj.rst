@@ -1,30 +1,39 @@
 Формирование Коммерческого документа “Расходная накладная” (COMDOC_006)
 ###########################################################################
+---------
+
+.. contents:: Содержание:
+   :depth: 6
+
+---------
 
 Введение
 ====================================
 Данная инструкция описывает порядок формирования, подписания и отправки Коммерческого документа “Расходная Накладная”.
 
-.. important:: **Внимание!**  Для корректного формирования документа **Расходная накладная (Comdoc)**, необходимо заполнить Товарный справочник. Инструкция по заполнению справочника находится `тут <https://wiki.edi-n.com/ru/latest/general/Zapolnenie_Tovarnogo_spravochnika.html>`_.
+.. important:: **Внимание!**  Для корректного формирования документа **Расходная накладная (Comdoc)**, необходимо заполнить Товарный справочник. Вы можете посмотреть  `Инструкцию по заполнению справочника <https://wiki.edi-n.com/ru/latest/general/Zapolnenie_Tovarnogo_spravochnika.html>`_.
 
 Расходная накладная (Comdoc)
 ============================================
 
 Перед началом работы с расходной накладной необходимо заполнить все реквизиты, которые будут отображаться в документе со стороны поставщика.
 
-Далее, перейдите в раздел “**Настройки**” (в правом верхнем углу”):
+Далее, перейдите в раздел “**Настройки**” (в правом верхнем углу):
 
-фото01
+.. image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_01.png
+   :align: center
 
 Нажмите на закладку "**Мои компании**" и выберете GLN, с которого будет происходить отправка документов.
 
-фото02
+.. image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_02.png
+   :align: center
 
 В открывшейся форме заполните поля обязательные для заполнения (отмечены красной звездочкой *****).
 
 .. important:: **Внимание!** Обратите внимание, что реквизиты заполняются на украинском языке и должны соответствовать информации в регистрационных документах компании.
 
-фото03
+.. image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_03.png
+   :align: center
 
 Формирование документа Расходная накладная
 ====================================================
@@ -41,11 +50,13 @@
 
 Для формирования документа Расходная накладная, необходимо перейти в раздел “**Отправленные**”.
 
-фото04
+.. image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_04.png
+   :align: center
 
 Открыть документ “**Уведомление об отгрузке**” и нажать кнопку “**Сформировать**”, затем выбрать из выпадающего списка документ “**Расходная накладная**”
 
-фото05
+.. image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_05.png
+   :align: center
 
 Заполнение документа Расходная накладная
 ====================================================
@@ -54,23 +65,28 @@
 
 Первый блок содержит информацию о номере Коммерческого документа, дате его составления и деталей договора.
 
-фото06
+.. image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_06.png
+   :align: center
 
 Второй блок содержит информацию о типе документа свидетельствующем про сотрудничество (договор), дате составления и его номере.
 
-фото07
+.. image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_07.png
+   :align: center
 
 Третий блок содержит информацию о получателе Коммерческого документа, данные заполняются автоматически из документа основания.
 
-фото08
+.. image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_08.png
+   :align: center
 
 Четвертый блок содержит информацию об отправителе Коммерческого документа, данные заполняются автоматически на основании данных компании в настройках.
 
-фото09
+.. image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_09.png
+   :align: center
 
 Девятый блок содержит информацию о товарных позициях, которые поставляются.
 
-фото10
+.. image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_10.png
+   :align: center
 
 **Данный блок содержит следующие колонки:**
 
@@ -86,21 +102,25 @@
 
 После внесения всех данных в документ, убедитесь в их корректности и нажмите кнопку “**Сохранить**”
 
-фото11
+.. image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_11.png
+   :align: center
 
 Подписание документа Расходная Накладная
 ====================================================
 После cохранения документа, его необходимо подписать Электронно-Цифровой подписью (ЭЦП).
 
-фото12
+.. image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_12.png
+   :align: center
 
 Для первичной настройки ЭЦП, дождитесь загрузки страницы, а затем нажмите кнопку “**Считать ключи**”
 
-фото13
+.. image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_13.png
+   :align: center
 
 Затем, в блоке настройки ЭЦП, нажмите на изображение ключа и выберете из каталога, где хранятся Ваши секретные ключи, соответствующий файл.
 
-фото14
+.. image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_14.png
+   :align: center
 
 Виды файлов электронно-цифровой подписи
 ====================================================
@@ -114,27 +134,33 @@
 - Шифрование «C»,
 - Универсальный ключ печати и шифрования «U».
 
-фото15
+.. image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_15.png
+   :align: center
 
 Если Вы используете ключи от **АЦСК “ПриватБанк”**, файлы подписей секретных ключей имеют расширение **.jks**
 
-фото16
+.. image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_16.png
+   :align: center
 
 Если Вы используете ключи от любых других **АЦСК**, файлы подписей секретных ключей имеют наименование **Key-6.dat**
 
-фото17
+.. image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_17.png
+   :align: center
 
 После выбора секретных ключей, введите пароли под каждым из них, а затем нажмите кнопку “**Считать ключи**”
 
-фото18
+.. image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_18.png
+   :align: center
 
 При корректном считывании ключей, в блоке “**ЭЦП**” появится информация о владельцах ключей. После проверки информации нажмите кнопку “**Подписать**”.
 
-фото19
+.. image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_19.png
+   :align: center
 
 После подписания нажмите на кнопку “**Отправить**”.
 
-фото20
+.. image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_20.png
+   :align: center
 
 Статусы отправленных документов
 ====================================================
@@ -142,23 +168,31 @@
 После отправки ответных документов, торговая сеть обрабатывает их и присваивает им статусы.
 Статусы отображаются в разделе “Отправленные”, напротив каждого документа.
 
-фото21
-фото22
+.. image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_21.png
+   :align: center
+   
+.. image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_22.png
+   :align: center
 
-Если документ корректный, напротив него, будет изображен статус в виде иконки
+Если документ корректный, напротив него, будет изображен статус в виде иконки |иконка-инфо| (знак инфо).
 
-Если в документе были допущены ошибки, напротив него будет изображен статус в виде иконки
-
+Если в документе были допущены ошибки, напротив него будет изображен статус в виде иконки |иконка-статус-1| (иконка восклицательный знак).
 
 Детальную информацию о статусе документа, можно узнать, кликнув по иконке, после чего, появится информационное окно с текстом статуса.
 
 Пример корректного статуса:
 
-фото23
+.. image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_23.png
+   :align: center
 
 Пример некорректного статуса:
 
-фото24
+.. image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_24.png
+   :align: center
 
 Получив такой статус, необходимо исправить ошибки, указанные в сообщении и отправить документ повторно.
 
+.. |иконка-инфо| image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_icon_1.png
+.. |иконка-статус-1| image:: pics_formirovanie_Rashodnoj_nakladnoj/formirovanie_Rashodnoj_nakladnoj_icon_2.png
+
+.. include:: kontakti.rst
