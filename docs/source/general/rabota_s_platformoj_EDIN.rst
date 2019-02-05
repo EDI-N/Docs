@@ -137,6 +137,12 @@
 
 Поиск
 ======
+
+.. sidebar:: Расширенный **«Поиск»***
+
+    .. image:: pics_rabota_s_platformoj_EDIN/Instrukcija_po_rabote_s_platformoj_EDIN_17.png
+   
+
 Поиск документов на платформе осуществляется двумя способами:
 
 Обычный **«Поиск»**, и
