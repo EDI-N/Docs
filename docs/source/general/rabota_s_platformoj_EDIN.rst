@@ -157,10 +157,6 @@
 
 .. |кубик-рубика| image:: pics_rabota_s_platformoj_EDIN/Instrukcija_po_rabote_s_platformoj_EDIN_16.png 
 
-.. image:: pics_rabota_s_platformoj_EDIN/Instrukcija_po_rabote_s_platformoj_EDIN_17.png
-   :scale: 100 %
-   :align: right
-
 Кнопка **«Поиск*»** имеет расширенный функционал поиска документов, нажав на соответствующую кнопку, появиться окно для ввода данных.
 После ввода нужного критерия для поиска документа, нажмите кнопку **«Найти»**. Поиск будет осуществляться по заданным параметрам.
 
