@@ -37,7 +37,7 @@
 
 1.6. Перейти в закладку "**Мои компании**" и выбрать GLN, с которого
 будет происходить отправка накладных:
-- 
+
 .. image:: pics_formirovanie_Nalogovoj_Nakladnoj_na_osnovanii_Prihodnoj_nakladnoj/formirovanie_Nalogovoj_Nakladnoj_na_osnovanii_Prihodnoj_nakladnoj_04.png
    :align: center
 
@@ -132,7 +132,7 @@
 
 3.4. После расшифровки текст квитанции станет доступен для чтения. Ее можно выгрузить в формате ***.rpl** (возможна загрузка в M.E.Doc), ***.pdf**, а так же распечатать.
 
-.. image:: pics_formirovanie_Nalogovoj_Nakladnoj_na_osnovanii_Prihodnoj_nakladnoj/formirovanie_Nalogovoj_Nakladnoj_na_osnovanii_Prihodnoj_nakladnoj_16.png
+.. image:: pics_formirovanie_Nalogovoj_Nakladnoj_na_osnovanii_Prihodnoj_nakladnoj/formirovanie_Nalogovoj_Nakladnoj_na_osnovanii_Prihodnoj_nakladnoj_16.jpg
    :align: center
 
 Создание налоговой накладной при отсутствии коммерческого документа
