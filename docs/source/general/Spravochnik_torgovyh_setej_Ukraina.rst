@@ -24,8 +24,9 @@
   
   Справочник_3
 =============
-.. csv-table:: Справочник сетей
+.. csv-table:: Справочник
   :file: general/partners_05.csv
+  :widths:  30, 10, 10, 10, 10 ,10, 10, 10, 10, 10, 10
   :header-rows: 1
   
 
