@@ -33,6 +33,7 @@ Contents:
    /retail/Rabota_s_dokumentom_Universalnyj_dokument_CONDRA
    /retail/rabotа_s_Kommercheskim_dokumentom_COMDOC
    /retail/formirovanie_Rashodnoj_nakladnoj
+   /retail/formirovanie_Nalogovoj_Nakladnoj_na_osnovanii_Prihodnoj_nakladnoj
 
 .. toctree::
    :caption: Интеграция
