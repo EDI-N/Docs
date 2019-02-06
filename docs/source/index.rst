@@ -9,7 +9,7 @@ Welcome to EDI-N documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 1
    
    general/index.rst
    
