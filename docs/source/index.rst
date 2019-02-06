@@ -15,18 +15,9 @@ Contents:
    
 
 .. toctree::
-   :caption: Retail
-   :maxdepth: 5
+   :maxdepth: 1
    
-   /retail/formirovanie_otpravka_dokumenta_Podtverzhdenie_zakaza_ORDRSP_na_web
-   /retail/formirovanie_dokumenta_Uvedomlenie_ob_otgruzke_DESADV_na_platforme
-   /retail/formirovanie_dokumenta_Schetfaktura_INVOICE_na_web_platforme
-   /retail/formirovanie_dokumenta_Prilozhenie_k_uvedomleniju_ob_otgruzke_QUOTES_na_platforme
-   /retail/formirovanie_dokumenta_Instrukcija_po_transportirovke_IFTMIN_na_platforme
-   /retail/Rabota_s_dokumentom_Universalnyj_dokument_CONDRA
-   /retail/rabotа_s_Kommercheskim_dokumentom_COMDOC
-   /retail/formirovanie_Rashodnoj_nakladnoj
-   /retail/formirovanie_Nalogovoj_Nakladnoj_na_osnovanii_Prihodnoj_nakladnoj
+   retail/index.rst
 
 .. toctree::
    :caption: Интеграция
