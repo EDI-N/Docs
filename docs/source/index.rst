@@ -17,7 +17,7 @@ Contents:
 .. toctree::
    :maxdepth: 1
    
-   retail/index.rst
+   retail/retail_list.rst
 
 .. toctree::
    :caption: Интеграция
