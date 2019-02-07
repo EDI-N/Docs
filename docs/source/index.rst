@@ -11,26 +11,24 @@ Contents:
 .. toctree::
    :maxdepth: 1
    
-   general/general_list.rst
+   general/general_list
    
 
 .. toctree::
    :maxdepth: 1
    
-   retail/retail_list.rst
+   retail/retail_list
 
 .. toctree::
-   :caption: Интеграция
    :maxdepth: 5
    
-   /integration/who_wants_to_live_forever
+   integration/integration_list
    XML/XML-structure
 
 .. toctree::
-   :caption: Сервисы
    :maxdepth: 5
    
-   /services/is_this_the_world_we_created
+   /services/services_list
 
 .. toctree::
    :caption: Обновления
