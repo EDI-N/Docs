@@ -51,20 +51,24 @@
 
 Когда ключи считаны, в окне ЭЦП можно будет увидеть информацию о ЭЦП:
 
-фото03
+.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_03.png
+   :align: center
 
-фото04
+.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_04.png
+   :align: center
 
 Подписание документов
 ===================================
 
 Для того, чтобы подписать документ ЭЦП, необходимо нажать кнопку **Подписать**.
 
-фото05
+.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_05.png
+   :align: center
 
 Откроется окно для подписания, в котором необходимо нажать кнопку **Подписать**.
 
-фото06
+.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_06.png
+   :align: center
 
 Далее откроется окно, в котором необходимо отметить чекером типы ключей, которыми будет подписан документ.
 
@@ -73,11 +77,13 @@
 - директор - 1
 - печать - 2
 
-фото07
+.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_07.png
+   :align: center
 
 И нажимаем кнопку **Подписать**. После процесса подписания необходимо нажать кнопку **Отправить**.
 
-фото08
+.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_08.png
+   :align: center
 
 Работа с документами
 ===================================
@@ -86,14 +92,16 @@
 
 **Обратите внимание**! Тип документа отображается в кратком описании документа.
 
-фото09
+.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_09.png
+   :align: center
 
 Для выбора необходимого документа является возможность воспользоваться фильтрами, которые отражаются над документами:
 
 - Первый фильтр отражает **все**, прочитанные и непрочитанные документы;
 - Второй фильтр позволяет выбрать конкретный **тип** документа.
 
-фото10
+.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_10.png
+   :align: center
 
 **Все документы, которые отправляет компания Meest-Express передаются в формате Коммерческого документа (comdoc).**
 
@@ -104,55 +112,62 @@
 
 Также можно воспользоваться строкой поиска, указав правильный номер документа.
 
-фото11
+.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_11.png
+   :align: center
 
 При необходимости есть возможность использовать расширенный поиск. Для этого нужно нажать на соответствующую кнопку — **Поиск***.
 
-фото12
+.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_12.png
+   :align: center
 
 В появившемся окне необходимо ввести параметры поиска и нажать кнопку **Найти**.
 
-фото13
+.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_13.png
+   :align: center
 
 Счет-фактура
 ------------------
 Документ передает информацию о стоимости предоставляемых услуг компанией Meest-Express. Информация о подписании документа отображается в блоке «**Подписи**». В открытом документе вверху есть несколько кнопок, которые позволят Вам:         
 
- - распечатать документ;                
- - скачать документ в формате .xls;           
- - скачать документ в формате .xml;         
- - отобразить более подробную информацию по документу;
- - скачать документ с ЭЦП;
+- распечатать документ;                
+- скачать документ в формате .xls;           
+- скачать документ в формате .xml;         
+- отобразить более подробную информацию по документу;
+- скачать документ с ЭЦП;
 
-фото14
+.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_14.png
+   :align: center
 
 Спецификация услуг по перевозкам
 ------------------------------------
 Документ расшифровывает счета, выставленные в электронном документе «Счет-фактура».
 
-фото15
+.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_15.png
+   :align: center
 
 Акт выполненных работ
 ---------------------------
 Данный документ обязательно **требует проверки** и подтверждения или отклонения.
 
-фото16
+.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_16.png
+   :align: center
 
 Для подтверждения Акта необходимо нажать на кнопку **Подписать**, и в блоке «ЭЦП» ввести пароли для подписания документа.
 
-фото17
+.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_17.png
+   :align: center
 
 В случае если ЭЦП не настроен, вернитесь к шагу 2, данной инструкции.
 
-4. Дополнительные сервисы 
+Дополнительные сервисы 
 ===================================
 
 ПОРТАЛ сертификатов - это онлайн сервис по хранению, обработке, поиску и совместном использования сертификатов в единой среде для всех участников.
 
 Основные возможности сервиса- ПОРТАЛ сертификатов:
 
-- Быстрый поиск сертификата (2 сек.) ;
-- Удобный обмен между участниками ; 
+- Быстрый поиск сертификата (2 сек.);
+- Удобный обмен между участниками;
 - Защита от потери сертификата (облачное хранение);
 - Прямая ссылка для быстрого просмотра / скачивания ;
 - Загрузка и печать сертификата в среде сервиса;
@@ -160,6 +175,7 @@
 
 Для работы с отчетностью нужно выбрать Сервис -> Сертификаты:
 
-фото18
+.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_18.png
+   :align: center
 
 .. include:: kontakti.rst
