@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 1
    
-   general/index.rst
+   general/general_list.rst
    
 
 .. toctree::
