@@ -14,3 +14,4 @@
    rabotа_s_Kommercheskim_dokumentom_COMDOC
    formirovanie_Rashodnoj_nakladnoj
    formirovanie_Nalogovoj_Nakladnoj_na_osnovanii_Prihodnoj_nakladnoj
+   formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj

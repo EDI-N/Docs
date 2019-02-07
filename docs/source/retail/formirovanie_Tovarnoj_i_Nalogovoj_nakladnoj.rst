@@ -1,5 +1,11 @@
 Формирование Товарной и Налоговой Накладной
 ###############################################################################
+---------
+
+.. contents:: Содержание:
+   :depth: 6
+
+---------
 
 Введение
 ====================================
@@ -18,17 +24,20 @@
 ----------------------------------------------------
 Далее, перейдите в раздел “**Настройки**” (в правом верхнем углу”):
 
-фото01
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_01.png
+   :align: center
 
 Нажмите на закладку "**Мои компании**" и выберете GLN, с которого будет происходить отправка документов.
 
-фото02
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_02.png
+   :align: center
 
 В открывшейся форме заполните поля обязательные для заполнения (отмечены красной звездочкой *****).
 
 .. important:: **Обратите внимание!** Реквизиты заполняются на украинском языке и должны соответствовать информации в регистрационных документах компании.
 
-фото03
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_03.png
+   :align: center
 
 Методы создания Товарной накладной
 ----------------------------------------------------
@@ -47,41 +56,49 @@
 
 Для удобства, отфильтруйте документы по «**прочитанным**», выберете нужную сеть в и укажите типа документа «**Уведомление о приёме**».
 
-фото04
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_04.png
+   :align: center
 
 Открыть документ “**Уведомление об приёме**” и нажать кнопку “**Сформировать**”, затем выбрать из выпадающего списка документ “**Товарная накладная + Налоговая накладная**”.
 
-фото05
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_05.png
+   :align: center
 
 Заполнение документа Товарная накладная
 ----------------------------------------------------
 
 Первым сформированным документом будет Товарная накладная. В открывшемся документе, необходимо заполнить обязательные данные, отмеченные красной звездочкой *****, в каждом из блоков.
 
-фото06
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_06.png
+   :align: center
 
 При проверке внесенных данных по товарным позициям необходимо удостоверится, что обязательно заполнено поле **код УКТ ВЭД**. 
 В случае, если поле не заполнено или заполнено не корректно, при сохранении документа будет выведено сообщение, как на изображении ниже:
 
-фото07
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_07.png
+   :align: center
 
 Для того, что бы поле с кодом **УКТ ВЭД** по товарным позициям при формировании документа Товарная Накладная заполнялось автоматически, необходимо проверить корректность заполнения данных в Товарном справочнике.
 
-фото08
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_08.png
+   :align: center
 
 Подписание документа Товарная Накладная
 ----------------------------------------------------
 После сохранения документа, его необходимо подписать Электронно-Цифровой подписью (ЭЦП).
 
-фото09
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_09.png
+   :align: center
 
 Для первичной настройки ЭЦП, дождитесь загрузки страницы, а затем нажмите кнопку “**Считать ключи**”
 
-фото10
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_10.png
+   :align: center
 
 Затем, в блоке настройки ЭЦП, нажмите на изображение ключа и выберете из каталога, где хранятся Ваши секретные ключи, соответствующий файл.
 
-фото11
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_11.png
+   :align: center
 
 Виды файлов электронно-цифровой подписи
 ----------------------------------------------------
@@ -95,23 +112,28 @@
 - Шифрование «C»,
 - Универсальный ключ печати и шифрования «U».
 
-фото12
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_12.png
+   :align: center
 
 Если Вы используете ключи от **АЦСК “ПриватБанк”**, файлы подписей секретных ключей имеют расширение **.jks**
 
-фото13
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_13.png
+   :align: center
 
 Если Вы используете ключи от любых других **АЦСК**, файлы подписей секретных ключей имеют наименование **Key-6.dat**
 
-фото14
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_14.png
+   :align: center
 
 После выбора секретных ключей, введите пароли под каждым из них, а затем нажмите кнопку “**Считать ключи**”
 
-фото15
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_15.png
+   :align: center
 
 При корректном считывании ключей, в блоке “**ЭЦП**” появится информация о владельцах ключей. После проверки информации нажмите кнопку “**Подписать**”.
 
-фото16
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_16.png
+   :align: center
 
 После подписания нажмите на кнопку “**Отправить**”.
 
@@ -121,7 +143,8 @@
 После отправки ответных документов, торговая сеть обрабатывает их и присваивает им статусы.
 Статусы отображаются в разделе “**Отправленные**”, напротив каждого документа.
 
-фото17
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_17.png
+   :align: center
 
 - «**Документ передан партнеру**» - товарная накладная корректная.
 - «**Документ передан на ящик партнера**» - товарная накладная корректная.
@@ -132,11 +155,13 @@
 
 Пример корректного статуса:
 
-фото18
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_18.png
+   :align: center
 
 Пример некорректного статуса:
 
-фото19
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_19.png
+   :align: center
 
 Налоговая накладная
 ====================================
@@ -145,13 +170,15 @@
 
 Данные в документе будут заполнены автоматически, на основании Товарной накладной. В Налоговой накладной необходимо заполнить порядковый номер.
 
-фото20
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_20.png
+   :align: center
 
 После заполнения всех данных, документ необходимо сохранить,подписать ЭЦП и отправить аналогично Товарной накладной.
 
 Документ будет доставлен на сервер ЕРНН и проверен органом Государственной Налоговой Инспекции.
 
-фото21
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_21.png
+   :align: center
 
 Статус регистрации Налоговой накладной
 ----------------------------------------------------
@@ -161,19 +188,22 @@
 
 Не некорректный документ поступит статус «**Ошибка при регистрации в ЕРНН**».
 
-фото22
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_22.png
+   :align: center
 
 Чтобы проверить причину отказа в регистрации Налоговой накладной, необходимо зайти в отправленный документ и расшифровать **квитанцию №1** отправленную органом ГНИ.
 
 Для этого дождитесь загрузки данных в блоке «**Квитанция №1**» и нажмите кнопку «**Прочитать**».
 
-фото23
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_23.png
+   :align: center
 
 Если прежде, ключи ЭЦП не были настроены, для расшифровки квитанции необходимо настроить ключ «**Шифрования**».
 
 Расшифрованный документ можно сохранить в формате **.PDF**, загрузить в формате **.RPL** или отобразить на платформе. Текст причины отказа в регистрации Налоговой накладной указан в блоке «**Виявлені помилки**»
 
-фото24
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_24.png
+   :align: center
 
 После анализа ошибок, сформируйте документ повторно и отправьте еще раз.
 
@@ -181,7 +211,8 @@
 ===================================================================================
 В случае, если от торговой сети отсутствует документ «**Уведомление о приёме**», Товарную накладную, необходимо сформировать самостоятельно через меню «**Создать**».
 
-фото25
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_25.png
+   :align: center
 
 Добавление товарных позиций
 -------------------------------------------
@@ -190,24 +221,28 @@
 
 После заполнения реквизитов в документ, требуется ввести товарные позиции. Для этого нажмите кнопку «**Добавить позицию**».
 
-фото26
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_26.png
+   :align: center
 
 В появившейся форме, заполните все обязательные поля, отмеченные красной звездочкой «*», после этого сохраните изменение.
 
-фото27
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_27.png
+   :align: center
 
 Обратите внимание, что для того, что бы поле «**код УКТ ВЭД**» при добавлении позиции заполнялось автоматически, данные так же необходимо заполнить в Товарном справочнике.
 
 После добавления всех товарных позиций, документ необходимо сохранить, подписать ЭЦП и отправить в торговую сеть.
 
-Эта процедура, аналогичная пунктам 6 и 7 данной инструкции.
+Эта процедура, аналогичная пункту *"Подписание документа Товарная Накладная"* данной инструкции.
 
 Формирование Налоговой накладной
+
 ----------------------------------------------------
 
 Перейдите в раздел «**Отправленные**», найти и откройте ранее отправленную Товарную накладную.
 
-фото28
+.. image:: pics_formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj/formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj_28.png
+   :align: center
 
 В открывшемся документе нажать кнопку «**Сформировать**», затем выбрать из выпадающего списка документ «**Налоговая накладная**».
 
@@ -215,4 +250,6 @@
 
 После заполнения всех данных, документ необходимо сохранить, подписать ЭЦП и отправить в торговую сеть.
 
-Эта процедура, аналогичная пунктам 6 и 7 данной инструкции.
+Эта процедура, аналогичная пункту *"Подписание документа Товарная Накладная"* данной инструкции.
+
+.. include:: kontakti.rst
