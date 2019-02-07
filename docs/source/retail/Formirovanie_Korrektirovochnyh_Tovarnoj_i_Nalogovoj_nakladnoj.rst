@@ -26,17 +26,20 @@
 ----------------------------------------------------
 Далее, перейдите в раздел “**Настройки**” (в правом верхнем углу”):
 
-ajnj01
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_01.png
+   :align: center
 
 Нажмите на закладку "**Мои компании**" и выберете GLN, с которого будет происходить отправка документов.
 
-ajn02
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_02.png
+   :align: center
 
 В открывшейся форме заполните поля обязательные для заполнения (отмечены красной звездочкой *****).
 
 .. important:: **Обратите внимание!** Реквизиты заполняются на украинском языке и должны соответствовать информации в регистрационных документах компании.
 
-ajnj03
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_03.png
+   :align: center
 
 После заполнения всех данных, сохраните изменение, нажав на соответствующую кнопку «Сохранить».
 
@@ -56,23 +59,30 @@ ajnj03
 
 Для удобства, отфильтруйте документы по нужной сети и укажите тип документа «**Товарная накладная**».
 
-ajnj04
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_04.png
+   :align: center
 
 Откройте документ «**Товарная накладная**» и нажмите кнопку «**Сформировать**», затем выберите из выпадающего списка документ «**Корректировочная товарная накладная**»
 
-фото05
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_05.png
+   :align: center
 
 Заполнение Корректировочной товарной накладной
 ----------------------------------------------------
 В открывшемся документе, необходимо заполнить обязательные данные, отмеченные красной звездочкой *****, в каждом из блоков.
 
-фото06
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_06.png
+   :align: center
 
 Обязательными к заполнению в документе, является блок «**Причина корректировки**». Укажите нужный вариант.
 
-фото07
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_07.png
+   :align: center
 
 Так же, необходимо выбрать необходимый пункт в блоке «**Корректирующие данные**»
+
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_08.png
+   :align: center
 
 Есть несколько причин корректировки:
 
@@ -86,13 +96,15 @@ ajnj04
 
 Щелкнув по наименованию товарной позиции, Вы сможете внести дополнительные изменения, кроме полей "**Количество**" и "**Цена без НДС**".
 
-фото08
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_09.png
+   :align: center
 
 При проверке внесенных данных по товарным позициям необходимо удостоверится, что обязательно заполнено поле «**код УКТ ВЭД**».
 
 В случае, если поле не заполнено или заполнено не корректно, при сохранении документа будет выведено сообщение, как на изображении ниже:
 
-фото09
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_10.png
+   :align: center
 
 Для того, что бы поле с кодом **УКТ ВЭД** при добавлении товарной позиции заполнялось автоматически, необходимо проверить, что бы данные были заполнены в Товарном справочнике.
 
@@ -104,15 +116,18 @@ ajnj04
 ---------------------------------------------------------
 После сохранения документа, его необходимо подписать Электронно-Цифровой подписью (ЭЦП).
 
-фото10
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_11.png
+   :align: center
 
 Для первичной настройки ЭЦП, дождитесь загрузки страницы, а затем нажмите кнопку “**Считать ключи**”
 
-фото11
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_12.png
+   :align: center
 
 Затем, в блоке настройки ЭЦП, нажмите на изображение ключа и выберете из каталога, где хранятся Ваши секретные ключи, соответствующий файл.
 
-фото12
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_13.png
+   :align: center
 
 Виды файлов электронно-цифровой подписи
 ----------------------------------------------------
@@ -125,23 +140,28 @@ ajnj04
 - Шифрование «C»,
 - Универсальный ключ печати и шифрования «U».
 
-фото13
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_14.png
+   :align: center
 
 Если Вы используете ключи от **АЦСК “ПриватБанк”**, файлы подписей секретных ключей имеют расширение **.jks**
 
-фото14
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_15.png
+   :align: center
 
 Если Вы используете ключи от любых других **АЦСК**, файлы подписей секретных ключей имеют наименование **Key-6.dat**
 
-фото15
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_16.png
+   :align: center
 
 После выбора секретных ключей, введите пароли под каждым из них, а затем нажмите кнопку “**Считать ключи**”
 
-фото16
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_17.png
+   :align: center
 
 При корректном считывании ключей, в блоке “**ЭЦП**” появится информация о владельцах ключей. После проверки информации нажмите кнопку “**Подписать**”.
 
-фото17
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_18.png
+   :align: center
 
 После подписания нажмите на кнопку “**Отправить**”.
 
@@ -152,11 +172,13 @@ ajnj04
 
 Пример корректного статуса:
 
-фото18
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_19.png
+   :align: center
 
 Пример некорректного статуса:
 
-фото19
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_20.png
+   :align: center
 
 - «**Документ передан партнеру**» - товарная накладная корректная.
 - «**Документ передан на ящик партнера**» - товарная накладная корректная.
@@ -173,21 +195,25 @@ ajnj04
 
 Для формирования документа РКНН, перейдите в раздел «**Отправленные**», отфильтруйте документы по нужной розничной сети и типу «**Корректировочная товарная накладная**».
 
-фото20
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_21.png
+   :align: center
 
 Откройте документ «**Корректировочная товарная накладная**» и нажмите кнопку «**Сформировать**», затем выберете из выпадающего списка документ «**Корректировочная налоговая накладная**»
 
-фото21
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_22.png
+   :align: center
 
 В сформированном документе «**Корректировочная налоговая накладная**», данные автоматически подтянутся из Корректировочной товарной накладной - их необходимо сверить, после этого приступить к внесению корректируемых данных.
 
-фото22
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_23.png
+   :align: center
 
 Внизу документа находится перечень товарных позиций, которые переносятся из документа «Корректировка к Товарной Накладной»
 
 Все остальные поля вы заполняете самостоятельно согласно действующего налогового законодательства Украины.
 
-фото23
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_24.png
+   :align: center
 
 После заполнения всех данных, документ необходимо сохранить,подписать ЭЦП и отправить аналогично Корректировочной Товарной накладной.
 
@@ -209,7 +235,8 @@ ajnj04
 
 В случае, если документ «**Товарная накладная**» не отправлялся, Корректирующую товарную накладную, необходимо сформировать самостоятельно через меню «**Создать**».
 
-фото24
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_25.png
+   :align: center
 
 Добавление товарных позиций
 ----------------------------------------------------
@@ -219,11 +246,13 @@ ajnj04
 
 После заполнения реквизитов в документ, требуется ввести товарные позиции. Для этого нажмите кнопку «**Добавить позицию**».
 
-фото25
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_26.png
+   :align: center
 
 В появившейся форме, заполните все обязательные поля, отмеченные красной звездочкой *****, после этого сохраните изменения.
 
-фото26
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_27.png
+   :align: center
 
 Обратите внимание, что для того, что бы поле «**код УКТ ВЭД**» при выборе товарной позиции заполнялось автоматически, данные необходимо заполнить в Товарном справочнике.
 
@@ -238,7 +267,8 @@ ajnj04
 
 Перейдите в раздел «**Отправленные**», найдите и откройте ранее отправленную Товарную накладную.
 
-фото27
+.. image:: pics_Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj/Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj_28.png
+   :align: center
 
 В открывшемся документе нажмите кнопку «Сформировать», затем выберите из выпадающего списка документ «**Налоговая накладная**».
 
