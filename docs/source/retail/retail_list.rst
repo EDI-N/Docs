@@ -4,7 +4,6 @@
 .. toctree::
     :maxdepth: 1
    
-   rabota_s_platformoj_EDIN
    formirovanie_otpravka_dokumenta_Podtverzhdenie_zakaza_ORDRSP_na_web
    formirovanie_dokumenta_Uvedomlenie_ob_otgruzke_DESADV_na_platforme
    formirovanie_dokumenta_Schetfaktura_INVOICE_na_web_platforme
@@ -16,3 +15,6 @@
    formirovanie_Nalogovoj_Nakladnoj_na_osnovanii_Prihodnoj_nakladnoj
    formirovanie_Korrektirovochnoj_NN_na_osnovanii_Vozvratnoj_nakladnoj
    formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj
+   Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj
+   formirovanie_Korrektirovochnoj_NN_na_osnovanii_Vozvratnoj_nakladnoj
+   formirovanie_dokumenta_Akt_vypolnennyh_rabot_na_platforme_OBMIN
