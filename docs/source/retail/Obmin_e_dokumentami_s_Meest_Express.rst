@@ -91,7 +91,7 @@
 
 **Обратите внимание**! Тип документа отображается в кратком описании документа.
 
-.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_09.png
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e_dokumentami_s_Meest_Express_9.png
    :align: center
 
 Для выбора необходимого документа является возможность воспользоваться фильтрами, которые отражаются над документами:
