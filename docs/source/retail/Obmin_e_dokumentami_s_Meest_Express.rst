@@ -25,7 +25,7 @@
 =======================
 Для входа на платформу необходимо перейти по ссылке https://obmin.edi-n.com/. На открывшейся странице, введите логин и пароль для доступа в систему.
 
-.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_01.png
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_01.png
    :align: center
 
 Настройка ЭЦП
@@ -35,7 +35,7 @@
 Откроется Проводник, где необходимо будет указать каталог с секретными ключами и выбрать ключи.
 
 
-.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_02.png
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_02.png
    :align: center
 
 Если ключи полученные в **АЦСК ИСД (ДФС)**, тогда необходимо выбирать: ключи **key-6.dat**
@@ -51,10 +51,10 @@
 
 Когда ключи считаны, в окне ЭЦП можно будет увидеть информацию о ЭЦП:
 
-.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_03.png
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_03.png
    :align: center
 
-.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_04.png
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_04.png
    :align: center
 
 Подписание документов
@@ -62,12 +62,12 @@
 
 Для того, чтобы подписать документ ЭЦП, необходимо нажать кнопку **Подписать**.
 
-.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_05.png
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_05.png
    :align: center
 
 Откроется окно для подписания, в котором необходимо нажать кнопку **Подписать**.
 
-.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_06.png
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_06.png
    :align: center
 
 Далее откроется окно, в котором необходимо отметить чекером типы ключей, которыми будет подписан документ.
@@ -77,12 +77,12 @@
 - директор - 1
 - печать - 2
 
-.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_07.png
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_07.png
    :align: center
 
 И нажимаем кнопку **Подписать**. После процесса подписания необходимо нажать кнопку **Отправить**.
 
-.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_08.png
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_08.png
    :align: center
 
 Работа с документами
@@ -92,7 +92,7 @@
 
 **Обратите внимание**! Тип документа отображается в кратком описании документа.
 
-.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_09.png
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_09.png
    :align: center
 
 Для выбора необходимого документа является возможность воспользоваться фильтрами, которые отражаются над документами:
@@ -100,7 +100,7 @@
 - Первый фильтр отражает **все**, прочитанные и непрочитанные документы;
 - Второй фильтр позволяет выбрать конкретный **тип** документа.
 
-.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_10.png
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_10.png
    :align: center
 
 **Все документы, которые отправляет компания Meest-Express передаются в формате Коммерческого документа (comdoc).**
@@ -112,17 +112,16 @@
 
 Также можно воспользоваться строкой поиска, указав правильный номер документа.
 
-.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_11.png
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_11.png
    :align: center
-
 При необходимости есть возможность использовать расширенный поиск. Для этого нужно нажать на соответствующую кнопку — **Поиск***.
 
-.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_12.png
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_12.png
    :align: center
 
 В появившемся окне необходимо ввести параметры поиска и нажать кнопку **Найти**.
 
-.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_13.png
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_13.png
    :align: center
 
 Счет-фактура
@@ -135,26 +134,26 @@
 - отобразить более подробную информацию по документу;
 - скачать документ с ЭЦП;
 
-.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_14.png
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_14.png
    :align: center
 
 Спецификация услуг по перевозкам
 ------------------------------------
 Документ расшифровывает счета, выставленные в электронном документе «Счет-фактура».
 
-.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_15.png
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_15.png
    :align: center
 
 Акт выполненных работ
 ---------------------------
 Данный документ обязательно **требует проверки** и подтверждения или отклонения.
 
-.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_16.png
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_16.png
    :align: center
 
 Для подтверждения Акта необходимо нажать на кнопку **Подписать**, и в блоке «ЭЦП» ввести пароли для подписания документа.
 
-.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_17.png
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_17.png
    :align: center
 
 В случае если ЭЦП не настроен, вернитесь к шагу 2, данной инструкции.
@@ -175,7 +174,7 @@
 
 Для работы с отчетностью нужно выбрать Сервис -> Сертификаты:
 
-.. image:: pics_Obmen_e-dokumentami_s_Meest-Express/Obmen_e-dokumentami_s_Meest-Express_18.png
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_18.png
    :align: center
 
 .. include:: kontakti.rst
