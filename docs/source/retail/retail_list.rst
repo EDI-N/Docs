@@ -17,4 +17,3 @@
    formirovanie_Tovarnoj_i_Nalogovoj_nakladnoj
    Formirovanie_Korrektirovochnyh_Tovarnoj_i_Nalogovoj_nakladnoj
    formirovanie_dokumenta_Akt_vypolnennyh_rabot_na_platforme_OBMIN
-   Obmen_e-dokumentami_s_Meest-Express
