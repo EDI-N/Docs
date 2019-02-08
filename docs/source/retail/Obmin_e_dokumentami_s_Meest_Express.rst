@@ -145,11 +145,13 @@ ajnj10
 ---------------------------
 Данный документ обязательно **требует проверки** и подтверждения или отклонения.
 
-ajnj16
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_16.png
+   :align: center
 
 Для подтверждения Акта необходимо нажать на кнопку **Подписать**, и в блоке «ЭЦП» ввести пароли для подписания документа.
 
-ajnj17
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_17.png
+   :align: center
 
 В случае если ЭЦП не настроен, вернитесь к шагу 2, данной инструкции.
 
