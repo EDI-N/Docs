@@ -98,7 +98,8 @@ ajnj09
 - Первый фильтр отражает **все**, прочитанные и непрочитанные документы;
 - Второй фильтр позволяет выбрать конкретный **тип** документа.
 
-ajnj10
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_10.png
+   :align: center
 
 **Все документы, которые отправляет компания Meest-Express передаются в формате Коммерческого документа (comdoc).**
 
