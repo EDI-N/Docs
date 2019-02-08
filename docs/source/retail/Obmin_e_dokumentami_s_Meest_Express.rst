@@ -169,6 +169,7 @@ ajnj17
 
 Для работы с отчетностью нужно выбрать Сервис -> Сертификаты:
 
-ajnj18
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_18.png
+   :align: center
 
 .. include:: kontakti.rst
