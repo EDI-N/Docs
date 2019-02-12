@@ -11,9 +11,16 @@ Root сертификат - DigiCert_Global_Root_CA.crt
 
 Вложенный сертификат EDI-N (Organization Validation) - OV_edi-n.com.crt
 
+
 Таблица 1 - Mendelson AS2 configuration
 ==============================================
 .. csv-table:: Mendelson AS2 configuration
   :file: Tables/Table_1_Mendelson_AS2_configuration.csv
   :widths:  5, 5, 
 
+
+Справочник торговых сетей
+=============
+.. csv-table:: Справочник торговых сетей Украина
+  :file: general/tables/partners_05.csv
+  :widths:  10, 2, 2, 2, 2 ,2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2
