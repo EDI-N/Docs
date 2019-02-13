@@ -1,5 +1,9 @@
 SOAP API
 #########
+
+Проверка отображеия
+==============================================
+
 ---------
 
 .. contents:: Содержание:
@@ -17,7 +21,8 @@ WSDL схема для работы с FTPEX по SOAP:https://soap.edi-n.com/so
 
 Пример ответа:
 
-.. code-block:: rst
+:: 
+
  <result>
             <errorCode>0</errorCode>
             <list>status_20150924144604_4679904.xml</list>
@@ -42,7 +47,8 @@ errorCode 2 - другая ошибка
 
 Пример запроса:
 
-.. code-block:: rst
+::
+
       <soap:getDocumentsRequest>
          <!--Optional:-->
          <user>
@@ -95,7 +101,8 @@ errorCode 1 - ошибка при получении документа.
 
 Пример ответа:
 
-.. code-block:: rst
+::
+
 <result>
             <errorCode>0</errorCode>
   </result>
