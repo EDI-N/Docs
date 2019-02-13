@@ -64,7 +64,8 @@ errorCode 2 - другая ошибка
 
 Пример ответа:
 
-.. code-block:: rst
+::
+
          <result>
             <errorCode>0</errorCode>
           <content>UEsDBBQACAgIAD...AAAA</content>
@@ -82,7 +83,8 @@ errorCode 1 - ошибка получения документов (значен
 
 Пример ответа:
 
-.. code-block:: rst
+:: 
+
   <result>
             <errorCode>0</errorCode>
             <content>PFN0YXR1cz4KI...4KPC9TdGF0dXM+</content>
@@ -118,7 +120,8 @@ errorCode 3 - ошибка при отправке документа
 
 Пример ответа:
 
-.. code-block:: rst
+:: 
+
 <result>
             <errorCode>0</errorCode>
   </result>
@@ -134,7 +137,8 @@ errorCode 4 - ошибка при архивации документа
 
 Пример запроса:
 
-.. code-block:: rst
+:: 
+
       <soap:archiveDocumentsRequest>
          <!--Optional:-->
          <user>
@@ -150,7 +154,8 @@ errorCode 4 - ошибка при архивации документа
 
 Пример ответа:
 
-.. code-block:: rst
+:: 
+
 <result>
             <errorCode>0</errorCode>
   </result>
