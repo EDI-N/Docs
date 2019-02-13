@@ -10,7 +10,7 @@ SOAP API
 
 ---------
 
-WSDL схема для работы с FTPEX по SOAP:https://soap.edi-n.com/soap/service.wsdl
+WSDL схема для работы с FTPEX по SOAP: https://soap.edi-n.com/soap/service.wsdl
 
 Получение списка доступных файлов (getList)
 ==============================================
@@ -169,7 +169,6 @@ WSDL схема для работы с FTPEX по SOAP:https://soap.edi-n.com/so
 
 Дополнение
 ==============================================
-Для https://soap.edi.su/soap/?wsdl доступна отправка с выбором каталога для отчетности.
 
 Полные запросы и ответы сервера по каждому запросу:
 
