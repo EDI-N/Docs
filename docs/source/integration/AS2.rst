@@ -25,7 +25,7 @@ AS2 Сертифицирование
 
 Полная цепочка сертификатов, необходимая для установки связи: **root - intermedia - edin**
 
-:download:`Root сертификат - DigiCert_Global_Root_CA.crt<integration/DigiCert_Global_Root_CA.crt>`
+:download:`Root сертификат - DigiCert_Global_Root_CA.crt<DigiCert_Global_Root_CA.crt>`
 
 Сертификат Intermediate CA - Intermediate_CA.crt
 
