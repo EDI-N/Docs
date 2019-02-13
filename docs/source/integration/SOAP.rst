@@ -103,11 +103,11 @@ errorCode 1 - ошибка при получении документа.
 
 Пример ответа:
 
-::
+:: 
 
-<result>
+ <result>
             <errorCode>0</errorCode>
-</result>
+ </result>
 
 **Возможные ошибки**:
 errorCode 3 - ошибка при отправке документа
@@ -122,9 +122,9 @@ errorCode 3 - ошибка при отправке документа
 
 :: 
 
-<result>
+ <result>
             <errorCode>0</errorCode>
-</result>
+ </result>
 
 **Возможные ошибки**:
 errorCode 4 - ошибка при архивации документа
@@ -156,9 +156,9 @@ errorCode 4 - ошибка при архивации документа
 
 :: 
 
-<result>
+ <result>
             <errorCode>0</errorCode>
-</result>
+ </result>
 
 **Возможные ошибки**:
 errorCode 4 - ошибка при архивации документа (значение ошибки возвращается в <errorMessage/>)
