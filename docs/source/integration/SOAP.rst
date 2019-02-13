@@ -1,2 +1,171 @@
 SOAP API
 #########
+---------
+
+.. contents:: Содержание:
+
+---------
+
+WSDL схема для работы с FTPEX по SOAP:https://soap.edi-n.com/soap/service.wsdl
+
+Получение списка доступных файлов (getList)
+==============================================
+
+*Сигнатура* (параметры которые нужно передать): логин и MD5 пароля (те данные, которые были выданы пользователю при подключении к платформе электронного документооборота)(MD5 генератор http://www.danstools.com/md5-hash-generator/).
+
+*В ответ* получаем список имен файлов, которые на данный момент доступны пользователю.
+
+Пример ответа:
+
+.. code-block:: rst
+ <result>
+            <errorCode>0</errorCode>
+            <list>status_20150924144604_4679904.xml</list>
+            <list>status_20150924144604_7259532.xml</list>
+            <list>status_20150924144604_4784911.xml</list>
+    ...
+    ...
+    <list>status_20151005123023_686803070.xml</list>
+            <list>order_20151005132435_707890630.xml</list>
+  </result>
+
+**Возможные ошибки**:
+
+errorCode 1 - ошибка при авторизации,
+errorCode 2 - другая ошибка
+
+"Массовое" получение документов (нескольких искомых документов) (getDocuments)
+==============================================
+
+*Сигнатура* (параметры которые нужно передать): логин, MD5 пароля и конкретные имена файлов (имена файлов возвращает getList)
+*Что возвращает*: код ответа сервера (0 - успешная обработка), а также закодированный в base64 zip архив с запрашиваемыми файлами.
+
+Пример запроса:
+
+.. code-block:: rst
+      <soap:getDocumentsRequest>
+         <!--Optional:-->
+         <user>
+            <!--Optional:-->
+            <login>login</login>
+            <!--Optional:-->
+            <pass>parol</pass>
+         </user>
+         <!--Zero or more repetitions:-->
+         <fileName>hello.xml</fileName>
+        <fileName>musician.xml</fileName>
+      </soap:getDocumentsRequest>
+
+Пример ответа:
+
+.. code-block:: rst
+         <result>
+            <errorCode>0</errorCode>
+          <content>UEsDBBQACAgIAD...AAAA</content>
+         </result>
+
+**Возможные ошибки**:
+
+errorCode 1 - ошибка получения документов (значение ошибки возвращается в <errorMessage/>)
+
+Получение конкретного файла (getDoc)
+==============================================
+
+*Сигнатура* (параметры которые нужно передать): логин, MD5 пароля и конкретное имя файла (имена файлов возвращает getList)
+*В ответ* получаем конкретный файл в виде BASE-64 строки.
+
+Пример ответа:
+
+.. code-block:: rst
+  <result>
+            <errorCode>0</errorCode>
+            <content>PFN0YXR1cz4KI...4KPC9TdGF0dXM+</content>
+  </result>
+
+Содержимое поля <content> переводится в XML представление путем расшифровки BASE-64 (в итоге получается тело XML файла).
+
+**Возможные ошибки**:
+errorCode 1 - ошибка при получении документа.
+
+Передача конкретного файла (sendDoc)
+==============================================
+
+*Сигнатура* (параметры которые нужно передать) : логин, MD5 пароля, конкретное имя файла и тело файла в виде BASE-64 строки
+*В ответ* получаем код ответа сервера (0 - успешная передача).
+
+Пример ответа:
+
+.. code-block:: rst
+<result>
+            <errorCode>0</errorCode>
+  </result>
+
+**Возможные ошибки**:
+errorCode 3 - ошибка при отправке документа
+
+Архивирование документа (удаление конкретного файла с сервера) (archiveDoc)
+==============================================
+
+*Сигнатура* (параметры которые нужно передать) : логин, MD5 пароля и конкретное имя файла (имена файлов возвращает getList)
+*Что возвращает*: код ответа сервера (0 - успешная обработка).
+
+Пример ответа:
+
+.. code-block:: rst
+<result>
+            <errorCode>0</errorCode>
+  </result>
+
+**Возможные ошибки**:
+errorCode 4 - ошибка при архивации документа
+
+"Массовое" архивирование документов (удаление файлов с сервера) (archiveDocuments)
+==============================================
+
+*Сигнатура* (параметры которые нужно передать): логин, MD5 пароля и конкретное имя файла (имена файлов возвращает getList)
+*Что возвращает*: код ответа сервера (0 - успешная обработка).
+
+Пример запроса:
+
+.. code-block:: rst
+      <soap:archiveDocumentsRequest>
+         <!--Optional:-->
+         <user>
+            <!--Optional:-->
+            <login>login</login>
+            <!--Optional:-->
+            <pass>parol</pass>
+         </user>
+         <!--Zero or more repetitions:-->
+             <fileName>hello.xml</fileName>
+           <fileName>musician.xml</fileName>
+      </soap:archiveDocumentsRequest>
+
+Пример ответа:
+
+.. code-block:: rst
+<result>
+            <errorCode>0</errorCode>
+  </result>
+
+**Возможные ошибки**:
+errorCode 4 - ошибка при архивации документа (значение ошибки возвращается в <errorMessage/>)
+
+Дополнение
+==============================================
+Для https://soap.edi.su/soap/?wsdl доступна отправка с выбором каталога для отчетности.
+
+Полные запросы и ответы сервера по каждому запросу:
+
+- sendDoc_response2.xml
+- sendDoc_request2.xml
+- getList_response2.xml
+- getList_request2.xml
+- getDocumentsResponse2.xml
+- getDocumentsRequest2.xml
+- getDoc_response2.xml
+- getDoc_request2.xml
+- archiveDocumentsResponse2.xml
+- archiveDocumentsRequest2.xml
+- archiveDoc_response2.xml
+- archiveDoc_request2.xml
