@@ -23,7 +23,9 @@ XML-structure
   :file: files/PRICAT.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
-  
+
+.. include:: units.rst
+
 ---------
 
 Заказ (ORDER)
@@ -33,7 +35,9 @@ XML-structure
   :file: files/ORDER.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
-  
+
+.. include:: units.rst
+
 ---------
 
 Подтверждение заказа (ORDRSP)
@@ -43,6 +47,8 @@ XML-structure
   :file: files/ORDRSP.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units.rst
 
 ---------
 
@@ -54,6 +60,8 @@ XML-structure
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units.rst
+
 ---------
 
 Уведомление о приеме (RECADV)
@@ -63,6 +71,8 @@ XML-structure
   :file: files/RECADV.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units.rst
 
 ---------
 
@@ -74,6 +84,8 @@ XML-structure
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units.rst
+
 ---------
 
 Корректировка счета (KORINVOICE)
@@ -83,6 +95,8 @@ XML-structure
   :file: files/KORINVOICE.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units.rst
 
 ---------
 
@@ -351,6 +365,8 @@ XML-structure
   :widths:  25, 25, 50
   :header-rows: 1
 
+.. include:: units.rst
+
 ---------
 
 Отчет о продажах (SLSRPT)
@@ -360,6 +376,8 @@ XML-structure
   :file: files/SLSRPT.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units.rst
 
 ---------
 
@@ -371,6 +389,8 @@ XML-structure
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units.rst
+
 ---------
 
 Информация о контрагенте для поставщика (PARTIN)
@@ -380,6 +400,8 @@ XML-structure
   :file: files/PARTIN_P.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units.rst
 
 ---------
 
@@ -391,6 +413,8 @@ XML-structure
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units.rst
+
 ---------
 
 Коммерческая дискуссия (COMDIS)
@@ -400,6 +424,8 @@ XML-structure
   :file: files/COMDIS.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units.rst
 
 ---------
 
@@ -411,6 +437,8 @@ XML-structure
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units.rst
+
 ---------
 
 Уведомление об отгрузке для распределительного центра (DESSCC)
@@ -420,6 +448,8 @@ XML-structure
   :file: files/DESSCC.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units.rst
 
 ---------
 
@@ -431,6 +461,8 @@ XML-structure
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units.rst
+
 ---------
 
 Акт выполненных работ (ACT)
@@ -440,6 +472,8 @@ XML-structure
   :file: files/ACT.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units.rst
 
 ---------
 
@@ -451,6 +485,8 @@ XML-structure
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units.rst
+
 ---------
 
 Инструкция о транспортировке (IFTMIN)
@@ -460,6 +496,8 @@ XML-structure
   :file: files/IFTMIN.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units.rst
 
 ---------
 
@@ -471,6 +509,8 @@ XML-structure
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units.rst
+
 ---------
 
 Инструкция о возврате (RETINS)
@@ -480,6 +520,8 @@ XML-structure
   :file: files/RETINS.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units.rst
 
 ---------
 
@@ -491,6 +533,8 @@ XML-structure
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units.rst
+
 ---------
 
 Подтверждение заказа на транспортировку (IFTMBC)
@@ -500,6 +544,8 @@ XML-structure
   :file: files/IFTMBC.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units.rst
 
 ---------
 
@@ -511,6 +557,8 @@ XML-structure
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units.rst
+
 ---------
 
 Неструктурированный документ(CONDRA)
@@ -520,6 +568,8 @@ XML-structure
   :file: files/CONDRA.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units.rst
 
 ---------
 
@@ -531,6 +581,8 @@ XML-structure
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units.rst
+
 ---------
 
 Реестр (REESTR)
@@ -540,6 +592,8 @@ XML-structure
   :file: files/REESTR.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units.rst
 
 ---------
 
@@ -551,6 +605,8 @@ XML-structure
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units.rst
+
 ---------
 
 Корректировка к налоговой накладной (DECLARj12)
@@ -560,6 +616,8 @@ XML-structure
   :file: files/DECLARj12.csv
   :widths:  30, 7, 10, 10, 43
   :header-rows: 1
+
+.. include:: units.rst
 
 ---------
 
@@ -571,6 +629,8 @@ XML-structure
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units.rst
+
 ---------
 
 Корректировка товарной накладной (DOCCORINVOICE)
@@ -580,6 +640,8 @@ XML-structure
   :file: files/DOCCORINVOICE.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units.rst
 
 ---------
 
@@ -591,6 +653,8 @@ XML-structure
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units.rst
+
 ---------
 
 Статус (STATUS)
@@ -601,5 +665,6 @@ XML-structure
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units.rst
 
 
