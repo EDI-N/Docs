@@ -169,6 +169,8 @@ WSDL схема для работы с FTPEX по SOAP: https://soap.edi-n.com/s
 
 Полные запросы и ответы сервера по каждому запросу:
 
+:download:`sendDoc_response2.xml<SOAP_API_request_response/sendDoc_response2.xml>`
+
 - sendDoc_response2.xml
 - sendDoc_request2.xml
 - getList_response2.xml
