@@ -9,42 +9,26 @@ Welcome to EDI-N documentation!
 Contents:
 
 .. toctree::
-   :caption: Общее
-   :maxdepth: 5
+   :maxdepth: 1
    
-   /general/rabota_s_platformoj_EDIN
-   /general/vosstanovlenie_parolja_na platforme_EDIN
-   /general/Zapolnenie_Tovarnogo_spravochnika
-   /general/Podpisanie_dokumentov_-CP_na_web-platofrme_EDIN
-   /general/robota_z_web-platformoju_EDIN-OBMIN
-   /general/Pіdpis_komercіjnih_dokumentiіv_na_platformі_OBMIN
-   /general/Spravochnik_torgovyh_setej_Ukraina
-  
+   general/general_list
+   
 
 .. toctree::
-   :caption: Retail
-   :maxdepth: 5
+   :maxdepth: 1
    
-   /retail/formirovanie_otpravka_dokumenta_Podtverzhdenie_zakaza_ORDRSP_na_web
-   /retail/formirovanie_dokumenta_Uvedomlenie_ob_otgruzke_DESADV_na_platforme
-   /retail/formirovanie_dokumenta_Schetfaktura_INVOICE_na_web_platforme
-   /retail/formirovanie_dokumenta_Prilozhenie_k_uvedomleniju_ob_otgruzke_QUOTES_na_platforme
-   /retail/formirovanie_dokumenta_Instrukcija_po_transportirovke_IFTMIN_na_platforme
-   /retail/Rabota_s_dokumentom_Universalnyj_dokument_CONDRA
-   /retail/rabotа_s_Kommercheskim_dokumentom_COMDOC
+   retail/retail_list
 
 .. toctree::
-   :caption: Интеграция
    :maxdepth: 5
    
-   /integration/who_wants_to_live_forever
+   integration/integration_list
    XML/XML-structure
 
 .. toctree::
-   :caption: Сервисы
    :maxdepth: 5
    
-   /services/is_this_the_world_we_created
+   /services/services_list
 
 .. toctree::
    :caption: Обновления
