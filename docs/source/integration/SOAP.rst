@@ -167,19 +167,28 @@ WSDL схема для работы с FTPEX по SOAP: https://soap.edi-n.com/s
 Дополнение
 ==============================================
 
-Полные запросы и ответы сервера по каждому запросу:
+Полные запросы и ответы сервера по каждому запросу (после клика начнется скачиввние):
 
 :download:`sendDoc_response2.xml<SOAP_API_request_response/sendDoc_response2.xml>`
 
-- sendDoc_response2.xml
-- sendDoc_request2.xml
-- getList_response2.xml
-- getList_request2.xml
-- getDocumentsResponse2.xml
-- getDocumentsRequest2.xml
-- getDoc_response2.xml
-- getDoc_request2.xml
-- archiveDocumentsResponse2.xml
-- archiveDocumentsRequest2.xml
-- archiveDoc_response2.xml
-- archiveDoc_request2.xml
+:download:`sendDoc_request2.xml<SOAP_API_request_response/sendDoc_request2.xml>`
+
+:download:`getList_response2.xml<SOAP_API_request_response/getList_response2.xml>`
+
+:download:`getList_request2.xml<SOAP_API_request_response/getList_request2.xml>`
+
+:download:`getDocumentsResponse2.xml<SOAP_API_request_response/getDocumentsResponse2.xml>`
+
+:download:`getDocumentsRequest2.xml<SOAP_API_request_response/getDocumentsRequest2.xml>`
+
+:download:`getDoc_response2.xml<SOAP_API_request_response/getDoc_response2.xml>`
+
+:download:`getDoc_request2.xml<SOAP_API_request_response/getDoc_request2.xml>`
+
+:download:`archiveDocumentsResponse2.xml<SOAP_API_request_response/archiveDocumentsResponse2.xml>`
+
+:download:`archiveDocumentsRequest2.xml<SOAP_API_request_response/archiveDocumentsRequest2.xml>`
+
+:download:`archiveDoc_response2.xml<SOAP_API_request_response/archiveDoc_response2.xml>`
+
+:download:`archiveDoc_request2.xml<SOAP_API_request_response/archiveDoc_request2.xml>`
