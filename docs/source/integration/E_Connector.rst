@@ -31,9 +31,6 @@ E-Connector
 
 .. code-block:: rst
 
-  .. code-block:: python
-
-    import this
 1. Операционная система Windows XP SP3, Windows Vista SP2, Windows 7, Windows 8, Windows 10, Windows Server 2003 SP2; Windows Server 2008 SP2 и более поздние версии, Linux;
 2. Процессор с тактовой частотой не менее 1000 МГц;
 3. Оперативной памяти не менее 512 Мбайт;
