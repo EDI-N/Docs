@@ -1,3 +1,8 @@
+
+.. list-table:: Sample list table
+   :widths:  5, 2, 2, 2, 2 ,2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2
+   :header-rows: 1
+   
 "Сеть\Тип док.","**O
 R
 D
