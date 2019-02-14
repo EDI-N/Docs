@@ -1,0 +1,16 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:soap="http://soap.edi.service.org/">
+  <soapenv:Header />
+  <soapenv:Body>
+    <soap:archiveDoc>
+      <!-- Optional: -->
+      <user>
+        <!-- Optional: -->
+        <login>login</login>
+        <!-- Optional: -->
+        <pass>parol</pass>
+      </user>
+      <!-- Optional: -->
+      <fileName>status_2.xml</fileName>
+    </soap:archiveDoc>
+  </soapenv:Body>
+</soapenv:Envelope>
