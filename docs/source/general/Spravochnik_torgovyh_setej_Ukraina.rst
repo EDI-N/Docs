@@ -8,7 +8,6 @@
 .. csv-table:: Справочник торговых сетей Украина
   :file: tables/partners_05.csv
   :widths: 10, 2, 2, 2, 2 ,2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2
-  :stub-columns: 1
-
+  
   
 
