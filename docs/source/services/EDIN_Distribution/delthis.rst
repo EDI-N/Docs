@@ -1,2 +1,2 @@
-EDIN_Distribution
+EDIN Distribution
 #######################
