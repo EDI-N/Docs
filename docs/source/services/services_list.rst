@@ -4,6 +4,7 @@
 .. toctree::
     :maxdepth: 1
    
-   EDIN_Price/supplier/supplier_list.rst
-   EDIN_Price/retailer
+   EDIN_Price
+   EDIN_Distribution
+   EDIN_Certificate
    is_this_the_world_we_created
