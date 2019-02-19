@@ -5,4 +5,4 @@
     :maxdepth: 1
    
    Soglasovanie_cen_web_EDIN-Price_dlja_postavshhika
-   supplier/Vvod_novyh_SKU_na_platforme
+   Vvod_novyh_SKU_na_platforme
