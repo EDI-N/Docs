@@ -20,13 +20,13 @@ Contents:
    retail/retail_list
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 5
    
    integration/integration_list
    XML/XML-structure
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 5
    
    /services/services_list
 
