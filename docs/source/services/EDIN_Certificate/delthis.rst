@@ -1,2 +1,2 @@
-EDIN Certificate
+EDIN-Certificate
 #####################
