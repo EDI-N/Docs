@@ -1,4 +1,4 @@
-EDIN Price
+EDIN-Price
 #######################
 
 .. toctree::
