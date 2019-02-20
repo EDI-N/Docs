@@ -1,2 +1,2 @@
-EDIN Distribution
+EDIN-Distribution
 #######################
