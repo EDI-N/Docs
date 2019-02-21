@@ -1,0 +1,9 @@
+**Описание**,**Значение**
+Type of certificate,Сертификат выданый центром сертификации
+Certificate validity period,RSA Encryption
+Type of public key,2048 bit
+Encryption algorithm,3DES
+Notification method,Asynchronous
+Certification type,Signed detached encrypted
+Algorithm used for electronic signature,"SHA1, SHA256"
+Compression of documents,No

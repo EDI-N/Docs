@@ -9,46 +9,32 @@ Welcome to EDI-N documentation!
 Contents:
 
 .. toctree::
-   :caption: Documentation
-   :maxdepth: 5
+   :maxdepth: 1
    
-   XML/XML-structure
-   XML/examples/comdoc_021_example.xml
+   general/general_list
+   
 
 .. toctree::
-   :caption: Общее
-   :maxdepth: 5
+   :maxdepth: 1
    
-   /general/rabota_s_platformoj_EDIN
-   /general/vosstanovlenie_parolja_na platforme_EDIN
-   /general/Zapolnenie_Tovarnogo_spravochnika
-   /general/Podpisanie_dokumentov_-CP_na_web-platofrme_EDIN
-   /general/robota_z_web-platformoju_EDIN-OBMIN
-   /general/Pіdpis_komercіjnih_dokumentiіv_na_platformі_OBMIN
-   /general/Spravochnik_torgovyh_setej_Ukraina
-  
+   retail/retail_list
 
 .. toctree::
-   :caption: Retail
    :maxdepth: 5
    
+   integration/integration_list
    XML/XML-structure
 
 .. toctree::
-   :caption: Интеграция
    :maxdepth: 5
    
-   XML/XML-structure
+   /services/services_list
 
 .. toctree::
-   :caption: Сервисы
+   :caption: Обновления
    :maxdepth: 5
    
-   XML/XML-structure
-
-
-
-
+   updates/this_just_fanta_sea
 
 
 
