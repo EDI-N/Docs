@@ -5,7 +5,7 @@
     :maxdepth: 1
    
    API_methods
-   source/XML/XML-structure
+   XML/XML-structure
    AS2
    SOAP
    FTP
