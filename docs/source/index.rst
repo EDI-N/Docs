@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to EDI-N documentation!
+EDIN | Электронный документооборот для бизнеса
 ===============================
 
-Contents:
+Содержание:
 
 .. toctree::
    :maxdepth: 1
