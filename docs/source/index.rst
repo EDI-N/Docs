@@ -9,30 +9,30 @@ EDIN | Электронный документооборот для бизнес
 Содержание:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    
    general/general_list
    
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    
    retail/retail_list
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 2
    
    integration/integration_list
    XML/XML-structure
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 2
    
    /services/services_list
 
 .. toctree::
    :caption: Обновления
-   :maxdepth: 5
+   :maxdepth: 2
    
    updates/this_just_fanta_sea
 
