@@ -1,4 +1,4 @@
-E-Connector
+E-Sign
 ############
 
 Интеграция SAP, Microsoft Dynamics, AX/NAV, Oracle
