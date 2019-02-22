@@ -6,6 +6,6 @@
    
    EDIN_Price/EDIN_Price_list
    EDIN_Distribution/delthis
-   EDIN_Certificate/delthis
+   EDIN_Certificate/EDIN_Certificate_list
    EDIN_DOCflow/EDIN_DOCflow_list
    
