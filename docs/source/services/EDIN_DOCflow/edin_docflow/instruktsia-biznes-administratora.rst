@@ -392,7 +392,7 @@
 
 Для перегляду всіх версій типу пакета натисніть кнопку «Показати всі версії» у формі редагування / перегляду типу пакета:
 
-.. image:: pics_instruktsia-biznes-administratora/foto43.png
+.. image:: pics_instruktsia-biznes-administratora/foto43png
    :align: center
 
 Відкриється перелік усіх версій типу пакета:
