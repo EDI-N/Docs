@@ -30,37 +30,44 @@
 
 Перейдіть на вкладку **Групи**. Для внесення нової назви групи призначена кнопка **Створити групу**. Для видалення якої-небудь з існуючих назв груп – кнопка видалення в колонці **Видалити**. При видаленні групи, дистриб’ютори, які входять до її складу, не видаляються.
 
-фото02 
+.. image:: Pics_Stvorennja_j_vidpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika/Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika_02.png
+   :align: center 
 
 Після того, як ви створили всі необхідні назви груп, позначте покупців, яких необхідно включити туди. Натисніть на кожну назву групи, ви побачите список всіх своїх дистриб’юторів, в якому позначте приналежність до групи. Дані одразу ж будуть збережені, закрийте вікно заповненої групи та відкрийте наступну.
 
-фото03
+.. image:: Pics_Stvorennja_j_vidpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika/Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika_03.png
+   :align: center
 
 Повернувшись на вкладку **Мої дистриб’ютори**, ви можете побачити в списку покупців додані їм групи. При необхідності, ви можете відкоригувати приналежність. Для цього натисніть на назву покупця, зніміть відмітку з назви групи, з якої його необхідно прибрати, і відмітьте групу, в яку додати.
 
-фото04
+.. image:: Pics_Stvorennja_j_vidpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika/Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika_04.png
+   :align: center
 
 Створення прайс-листа
 ===============================================
 Оберіть пункт меню **Прайс-лист**.
 
-фото05
+.. image:: Pics_Stvorennja_j_vidpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika/Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika_05.png
+   :align: center
 
 Завантажте файл з підказками по заповненню прайс-листа, натиснувши кнопку **Зберегти - Шаблон прайс-листа**.
 
-фото06
+.. image:: Pics_Stvorennja_j_vidpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika/Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika_06.png
+   :align: center
 
 Додайте свій асортимент, ціни і логістичну інформацію для товарів в завантажену таблицю, видаливши дані приклади.
 
 Збережіть у себе на диску цей **Excel**-файл (не змінюючи формат документу).
 
-фото07
+.. image:: Pics_Stvorennja_j_vidpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika/Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika_07.png
+   :align: center
 
 Відправлення документу Прайс-лист і обмеження для замовлень по прайсу
 =================================================================================
 Для відправлення прайсу на платформу EDIN-Distribution натисніть кнопку **Завантажити - Прайс-лист**.
 
-фото08
+.. image:: Pics_Stvorennja_j_vidpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika/Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika_08.png
+   :align: center
 
 Заповніть у вікні **Меню завантаження прайсу** обов’язкову інформацію для відправлення прайс-листа:
 
@@ -68,19 +75,22 @@
 - **Номер прайс-листа**: завантажені прайс-листи нумеруються на платформі автоматично. Якщо є потреба, введіть свій номер документа.
 - **Список дистриб’юторів**: вкажіть покупців, для яких відправляєте даний прайс-лист. Можна обрати всіх, вибрати раніше створену групу чи окремих покупців.
 
-фото09
+.. image:: Pics_Stvorennja_j_vidpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika/Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika_09.png
+   :align: center
 
 Одночасно з відправленням Прайс-листа ви можете передати покупцям обмеження по об’єму, вазі, кількості позицій або сумі одного замовлення.
 
 Для цього перейдіть у вкладку Налаштування обмежень, встановіть відмітки біля параметрів і введіть значення (максимальну кількість палет в замовленні, максимальну вагу замовлення в кілограмах, максимальну кількість товарних позицій або мінімальну суму замовлення з ПДВ). Обмеження будуть діяти обраним покупцям.
 
-фото10
+.. image:: Pics_Stvorennja_j_vidpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika/Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika_10.png
+   :align: center
 
 Щоб відправити Прайс-лист, поверніться на закладку **Імпорт**. Після натискання кнопки **Завантажити файл** з’явиться вікно, де ви вкажете шлях до документу і оберете створений раніше файл з Прайс-листом.
 
 Натисніть кнопку **Відкрити (Open)**, і Прайс-лист буде відправлений обраним покупцям.
 
-фото11
+.. image:: Pics_Stvorennja_j_vidpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika/Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika_11.png
+   :align: center
 
 Документ буде знаходитись в папці **Відправлені**.
 
@@ -88,27 +98,32 @@
 =========================================================================
 Для перегляду і редагування Прайс-листів передбачено Меню **Прайс-лист**.
 
-фото12 
+.. image:: Pics_Stvorennja_j_vidpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika/Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika_12.png
+   :align: center 
 
 Обирайте покупця зі списку в полі Дистриб’ютор, і період, для якого хочете переглянути асортимент і ціни для нього.
 
 Щоб побачити актуальний для покупця Прайс-лист, необхідно ввести дату для початку та для закінчення періоду та натиснути кнопку **Застосувати фільтр** для відображення.
 
-фото13
+.. image:: Pics_Stvorennja_j_vidpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika/Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika_13.png
+   :align: center
 
 Якщо для обраного періоду не завантажений жоден прайс, буде виведено повідомлення.
 
-фото14
+.. image:: Pics_Stvorennja_j_vidpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika/Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika_14.png
+   :align: center
 
 Інакше, за вибраний період відображатимуться всі товари.
 
 В списку товару, в відповідних стовпчиках, ви можете побачити для кожної позиції дати початку і закінчення дії цін. Дистриб’ютор може замовити позицію за умовою, якщо дата завершення дії ціни не мешне за поточну дату.
 
-фото15
+.. image:: Pics_Stvorennja_j_vidpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika/Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika_15.png
+   :align: center
 
 Прайс для обраного покупця, на вказаний період, вивантажується в форматі Excel кнопкою **Зберегти - Прайс-лист**.
 
-фото16
+.. image:: Pics_Stvorennja_j_vidpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika/Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika_16.png
+   :align: center
 
 **ВАЖЛИВО**! Зміна дати на вашому ПК не змінить відтворення прайс-листів. Використовується час серверу.
 
@@ -130,7 +145,8 @@
 
 Натисніть на найменування позиції в прайсі, і у вікні редагування на кнопку **Завантажити файл**. З’явиться стандартне вікно відкриття файлу, де оберіть шлях і файл і натисніть (**Open**). Щоб прикріплені файли збереглись на платформі EDIN-Distribution, натисніть кнопку **Зберегти**.
 
-фото17
+.. image:: Pics_Stvorennja_j_vidpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika/Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika_17.png
+   :align: center
  
 Виділення Новинок
 --------------------------
@@ -140,11 +156,13 @@
 
 Натисніть на найменування позиції, у вікні редагування встановіть відмітку **Новинка**. Натисніть кнопку **Зберегти** та поверніться в прайс-лист.
 
-фото18
+.. image:: Pics_Stvorennja_j_vidpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika/Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika_18.png
+   :align: center
 
 Новинка буде позначена в прайс-листі.
 
-фото19 
+.. image:: Pics_Stvorennja_j_vidpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika/Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika_19.png
+   :align: center 
 
 Виділення Акційних товарів
 --------------------------
@@ -154,11 +172,13 @@
 
 Натисніть на найменування позиції, у вікні редагування встановіть відмітку **Акція**. Натисніть кнопку **Зберегти** та поверніться в прайс-лист.
 
-фото20
+.. image:: Pics_Stvorennja_j_vidpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika/Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika_20.png
+   :align: center
 
 Акція буде позначена в прайс-листі.
 
-фото21
+.. image:: Pics_Stvorennja_j_vidpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika/Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika_21.png
+   :align: center
 
 Видалення прайсів
 =========================================================================
@@ -166,21 +186,25 @@
 
 Видалити прайс-лист для тільки одного з дистриб’юторів можна обравши його прайс для перегляду і натиснувши кнопку **Очистити каталог**.
 
-фото22
+.. image:: Pics_Stvorennja_j_vidpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika/Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika_22.png
+   :align: center
  
 Якщо є потреба видалити прайс-лист для групи покупців, скористайтесь кнопкою **Видалити прайси**.
 
-фото23
+.. image:: Pics_Stvorennja_j_vidpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika/Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika_23.png
+   :align: center
 
 У вікні **Видалення прайсу** можна обрати покупців, для яких будуть видалені всі дані, які були завантажені в прайс-лист. Після вибору натисніть кнопку **Видалити**.
  
-фото24
+.. image:: Pics_Stvorennja_j_vidpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika/Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika_24.png
+   :align: center
 
 Внесення змін в обмеження для замовлень по прайсу
 =========================================================================
 На закладці **Існуючі обмеження** в Меню завантаження прайс-листу (викликається кнопкою **Завантажити - Прайс-лист**) ви побачите список всіх покупців з встановленими на даний момент для їх замовлень обмеженнями.
 
-фото25
+.. image:: Pics_Stvorennja_j_vidpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika/Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika_25.png
+   :align: center
 
 Для відправлення дистриб’юторам змін в значеннях обмежень необхідно виконати відправлення прайс-листів. Діючий для покупця прайс можно вивантажити, видалити два останні стовпця з датами дії цін, і зберегти. Далі виконати дії по відправленню прайсів і обмежень відповідно до розділу .
 
