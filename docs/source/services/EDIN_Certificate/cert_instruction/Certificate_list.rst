@@ -1,4 +1,4 @@
-Работа с сервисом EDIN-Certificate на web-платформе EDIN
+Работа с сервисом EDIN-Certificate
 #####################
 
 .. toctree::
