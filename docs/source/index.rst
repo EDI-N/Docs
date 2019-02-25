@@ -30,10 +30,7 @@ EDIN | Электронный документооборот для бизнес
    
    /services/services_list
 
-.. toctree::
-   :maxdepth: 2
-   
-   updates/updates_list
+
 
 
 
