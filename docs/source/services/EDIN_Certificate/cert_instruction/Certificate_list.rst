@@ -4,4 +4,4 @@ EDIN-Certificate
 .. toctree::
     :maxdepth: 0
    
-   Stvorennja_j_vіdpravlennja_prajs_lista_Іnstrukcіja_dlja_virobnika
+   Instrukcija_po_rabote_s_servisom_EDIN_Certificate
