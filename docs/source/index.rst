@@ -31,10 +31,9 @@ EDIN | Электронный документооборот для бизнес
    /services/services_list
 
 .. toctree::
-   :caption: Обновления
    :maxdepth: 2
    
-   updates/this_just_fanta_sea
+   updates/updates_list
 
 
 
