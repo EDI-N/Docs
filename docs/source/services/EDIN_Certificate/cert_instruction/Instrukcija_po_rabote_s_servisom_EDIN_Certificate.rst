@@ -8,17 +8,20 @@
 ============================================================================
 Перейдите в раздел **Сервис** и нажмите кнопку «**EDIN-Certificate**»
 
-фото01
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_01.png
+   :align: center
 
 2. Добавление документа на Портал Сертификатов
 ============================================================================
 Чтобы добавить сертификат, нажмите кнопку «**Добавить сертификат**» :
 
-фото02
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_02.png
+   :align: center
 
 В появившейся форме необходимо заполнить поля отмеченные **красной звездочкой (*)**
 
-фото03
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_03.png
+   :align: center
 
 - **Тип сертификата** – можно выбрать тип документа.
 - **Номер сертификата** – номер указанный на сертификате.
@@ -33,44 +36,55 @@
 - Не выбрано – статус, при котором нельзя сохранить сертификат, необходимо выбрать права просмотра; 
 - Доступен всем – доступен для просмотра всем пользователям;
 
-фото04
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_04.png
+   :align: center
 
 - Ограниченный доступ – доступ только выбранным пользователям или сетям (после того, как вы выбрали «ограниченный доступ», необходимо нажать кнопку «Добавить» и ввести или GLN-номер, или название сети, которой предоставляется доступ). Если не добавлять сеть или GLN, то сертификат будет доступен для просмотра только вам.
 
-фото05
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_05.png
+   :align: center
 
 На экране появится окно, в котором с помощью поиска можно найти компании, для которых сертификат будет доступен для просмотра. После того, как вы нашли компанию по названию или GLN, нажмите кнопку «**Выбрать сеть**»:
 
-фото06
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_06.png
+   :align: center
 
 Нажимая кнопку «**Добавить**», можно добавить еще компании.  
 
-фото07
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_07.png
+   :align: center
 
 Когда все атрибуты Сертификата заполнены нажмите кнопку «**Сохранить**»:
-фото08
+
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_08.png
+   :align: center
 
 После сохранения появится дополнительное поле **Категория**. Нажав на это поле и начав вводить первые буквы категории, в выпадающем списке появится категория, которую вы ищите:
 
-фото09
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_09.png
+   :align: center
 
 Если в выпадающем списке не появилась необходимая категория, то вы можете добавить её, нажав кнопку «**Добавить новую категорию в справочник**»:
 
-фото10
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_10.png
+   :align: center
 
 Также в поле Категория можно сделать множественную привязку сертификата к категориям. Для этого необходимо, выбрав первую категорию, начать поиск снова, выбрать следующую:
 
-фото11
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_11.png
+   :align: center
 
 **2.1. Массовое добавление документов**
 Чтоб массово добавить документ, нужно предварительно подготовить необходимые файлы, а именно заполнить шаблон и отсканировать необходимые документы в формате *PDF, JPG, JPEG, PNG, TIFF*.
 Для загрузки шаблона нажмите кнопку **+** и выберите «**Скачать шаблон**»:
 
-фото12
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_12.png
+   :align: center
 
 Заполните информацию по документам в загруженный шаблон, предварительно удалив данные указанные для примера:
 
-фото13
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_13.png
+   :align: center
 
 **Тип сертификата** – в зависимости от типа указанного в документе, необходимо указать соответствующий номер типа:
 
@@ -109,7 +123,8 @@
 
 Для массового создания документов нажмите кнопку **+** и выберите «**Массовый импорт сертификатов**»:
 
-фото14
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_14.png
+   :align: center
 
 В открывшемся окне, Вы можете установить **права просмотра сертификатов**. 
 Установите: 
@@ -117,13 +132,15 @@
 - “Доступен всем” - если сертификаты будут общедоступными, 
 - “Ограниченный доступ” - если сертификаты будут доступны определенным контрагентам.
 
-фото15
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_15.png
+   :align: center
 
 Нажмите «**Загрузить**» и в форме выбора файлов выберите необходимый zip-архив.
 
 После обработки zip-архива откроется форма с отчетом о результатах импорта. Успешно созданные сертификаты будут отображаться строками белого цвета.
 
-фото16
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_16.png
+   :align: center
 
 В случае наличия ошибок заполнения шаблона соответствующая строка будет выделена красным цветом. При наведении на нее курсора мыши в подсказке будут отражены описание ошибок. Для таких документов карточки не будут созданы и при необходимости можно будет отредактировать соответствующие строки и снова импортировать zip-архив. При этом для ранее созданных документов отобразится ошибка "**Сертификат уже существует**" и новые карты не будут созданы.
 
@@ -135,18 +152,21 @@
 ============================================================================
 После сохранения атрибутов сертификата станет доступен блок загрузки файла:
 
-фото17
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_17.png
+   :align: center
 
 Поддерживаемые типы файлов: *PDF, JPG, JPEG, PNG, TIFF*.
 Для загрузки файла нажмите кнопку «**Загрузить**», укажите путь к нужному файлу и загрузите его.
 После того, как вы загрузили файл в систему, появится возможность загрузки дополнительных файлов, для добавления их нажмите кнопку «**Добавить**»:
 
-фото18
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_18.png
+   :align: center
 
 Выберите **Тип дополнительного файла** и нажмите «**Загрузить**», укажите путь к файлу и загрузите его.
 Максимальный размер файла для загрузки - 7,5 МБ. После загрузки вы можете посмотреть размер загруженного файла.
 
-фото19
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_19.png
+   :align: center
 
 Если размер файла больше, чем 7,5 МБ, то его необходимо удалить и загрузить файл меньшего размера, после чего будет возможность подписать его ЭЦП.
 Если необходимо загрузить дополнительные файлы, (изображение сертификата находится в нескольких файлах), нажмите кнопку «**Добавить доп. файлы**». После выбора файла нажмите кнопку «**Сохранить**»
@@ -155,20 +175,24 @@
 ============================================================================
 После загрузки файлов сертификатов, у Вас есть возможность подписать эти документы ЭЦП, для этого под каждым файлом нажмите кнопку «**Подписать**»:
 
-фото20
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_20.png
+   :align: center
 
 При переходе на страницу подписания документа необходимо нажать кнопку «**Зчитати ключі**»:
 
-фото21
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_21.png
+   :align: center
 
 В открывшемся окне появится форма для выбора ключей:
 Если ключи выданы в **АЦСК ИДД** (ФСУ), то необходимо выбрать ключи (**key-6.dat**), указать пароль и нажать кнопку «**Зчитати ключі**»:
 
-фото22
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_22.png
+   :align: center
 
 После установки ключей, на странице отобразится информация о ЭЦП:
 
-фото23
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_23.png
+   :align: center
 
 Если используются для подписания ключи **АЦСК «Україна**», то вид ключей следующий:
 
@@ -176,46 +200,55 @@
 - Ключ бухгалтера: ЕДРПОУ _ИНН подписанта_B1111111.ZS2 
 - Ключ печати: ЕДРПОУ _S1111111.ZS2 - Ключ шифрования: ЕДРПОУ _С1111111.ZS2
 
-фото24
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_24.png
+   :align: center
 
 Каждое действие (подписание, установка ключей) будет сопровождаться окном:
 
-фото25
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_25.png
+   :align: center
 
 *При новій сесії користувача, для підписання документа необхідно буде тільки
 ввести паролі і натиснути кнопку «Зчитати ключі»*:
 
 После подписания документа, на странице отобразится информация о ЭЦП:
 
-фото26
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_26.png
+   :align: center
 
 5. Привязка товара к сертификату 
 ============================================================================
 На портале сертификатов у Вас есть возможность привязать сертификаты к товару, на который они выписаны. Для этого нажмите кнопку «**Добавить**»:
 
-фото27
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_27.png
+   :align: center
 
 Заполнить один или несколько параметров по продукции (Штрихкод, Артикул покупателя, Артикул поставщика). Обратите внимание если Вам необходимо добавить много штрихкодов, Вы можете скопировать перечень штрихкодов из файла Excel или написанные через запятую и вставить в первую строчку:
 
-фото28
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_28.png
+   :align: center
 
 После заполнения данных по товару, нажмите кнопку «**Сохранить**»:
 
-фото29
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_29.png
+   :align: center
 
 Как только Вы успешно выполнили все вышеперечисленные пункты, у Вас при формировании Уведомления об отгрузке в поле штрихкода в позиции, на которую заведен сертификат, появится синяя пиктограмма:
 
-фото30
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_30.png
+   :align: center
 
 Если нажать на пиктограмму, то у Вас откроется детальная информация о приложенных документах:
 
-фото31
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_21.png
+   :align: center
 
 6. Просмотр доступных сертификатов
 ============================================================================
 В центральной части Портала Сертификатов вы можете увидеть все доступные вам сертификаты.
 
-ajnj32
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_32.png
+   :align: center
 
 #. добавить сертификат; 
 #. выполнить поиск сертификата по штрихкоду или номеру сертификата;
@@ -227,24 +260,27 @@ ajnj32
 
 В колонке **Действия** можно выполнить быстрые операции с сертификатами:
 
-ajnj32_2
-
-
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_32_2.png
+   :align: center
 
 Состояние подписи сертификата ЭЦП:
 
-ajnj32_3
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_32_3.png
+   :align: center
 
 
 **6.1. Настройка отображения столбцов**
 
 Для удобного просмотра данных о сертификатах, нажмите на кнопку «**Настройка отображения столбцов**"
 
-ajnj33
+
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_33.png
+   :align: center
 
 Активируйте необходимые столбцы и нажмите "**Сохранить**". Добавленные столбцы отобразятся после автоматического обновления страницы.
 
-ajnj34
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_34.png
+   :align: center
                                                             
 **Обратите внимание**! После выхода из личного кабинета, активированные столбцы будут сброшены на выбор по умолчанию. Для изменения выбора по умолчанию активируйте "флажок" возле "**Сохранить настройки**" и нажмите "**Сохранить**".
 
@@ -252,27 +288,32 @@ ajnj34
 ===============================================================================
 После того, как вы загрузили сертификат и сохранили его, у вас есть возможность получить более детальную информацию из **Реестра сертификации**. Информацию из Реестра можно получить только в том случае, если сертификат зарегистрирован в Реестре государственной системы сертификации Украины.
 
-ajnj35
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_35.png
+   :align: center
 
 8. Просмотр информации о сертификате
 ===============================================================================
 В этом поле можно посмотреть дату создания, дату последнего изменения, статус сертификата. Наведя курсор на статус **А+** , вы можете посмотреть все атрибуты сертификата.
 
-фото36
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_36.png
+   :align: center
 
 Статус имеет различные обозначения и выделяется цветом, в зависимости от наличия атрибутов:
 
-фото36_2
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_36_2.png
+   :align: center
 
 9. Поиск сертификатов по параметрам
 ===============================================================================
 Для поиска сертификата по определенным параметрам, необходимо на Портале Сертификатов нажать кнопку «**Расширенный поиск**»:
 
-фото37
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_37.png
+   :align: center
 
 Откроется форма для поиска:
 
-фото38
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_38.png
+   :align: center
 
 Поиск можно производить по одному или по нескольким полям. После того, как вы внесли условия поиска, нажмите кнопку «**Поиск**».
 
@@ -280,12 +321,15 @@ ajnj35
 ===============================================================================
 Для того, чтобы распечатать подписанный сертификат, необходимо нажать кнопку "**просмотреть подписи**", которая находится в колонке «**Действия**» списка сертификатов:
 
-фото39
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_39.png
+   :align: center
 
 или в открытом сертификате, в поле **Файл**: 
 
-фото40
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_40.png
+   :align: center
 
 Откроется окно с загруженной скан-копией сертификата, где можно добавить реквизиты ЭЦП. Нажав на кнопку ""печать, откроется меню, из которого можно распечатать сертификат с реквизитами ЭЦП.
 
-фото41
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_41.png
+   :align: center
