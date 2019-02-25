@@ -56,7 +56,7 @@
 .. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_06.png
    :align: center
 
-Нажимая кнопку «**Добавить**», можно добавить еще компании.  
+Нажимая кнопку «**Добавить**», можно добавить еще компании.
 
 .. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_07.png
    :align: center
@@ -289,7 +289,7 @@
 .. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_34.png
    :align: center
                                                             
-**Обратите внимание**! После выхода из личного кабинета, активированные столбцы будут сброшены на выбор по умолчанию. Для изменения выбора по умолчанию активируйте "флажок" возле "**Сохранить настройки**" и нажмите "**Сохранить**".
+.. note:: После выхода из личного кабинета, активированные столбцы будут сброшены на выбор по умолчанию. Для изменения выбора по умолчанию активируйте "флажок" возле "**Сохранить настройку**" и нажмите "**Сохранить**".
 
 7. Сверка сертификата с Реестром государственной системы сертификации Украины.
 ===============================================================================
