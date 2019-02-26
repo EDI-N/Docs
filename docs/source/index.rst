@@ -24,6 +24,10 @@ EDIN | Электронный документооборот для бизнес
    
    integration/integration_list
    
+.. toctree::
+   :maxdepth: 2
+   
+   XML/XML-structure.rst
 
 .. toctree::
    :maxdepth: 2
