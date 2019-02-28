@@ -3,38 +3,38 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to EDI-N documentation!
+EDIN | Электронный документооборот для бизнеса
 ===============================
 
-Contents:
+Содержание:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    
    general/general_list
    
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    
    retail/retail_list
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 2
    
    integration/integration_list
-   XML/XML-structure
+   
+.. toctree::
+   :maxdepth: 2
+   
+   XML/XML-structure.rst
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 2
    
    /services/services_list
 
-.. toctree::
-   :caption: Обновления
-   :maxdepth: 5
-   
-   updates/this_just_fanta_sea
+
 
 
 
