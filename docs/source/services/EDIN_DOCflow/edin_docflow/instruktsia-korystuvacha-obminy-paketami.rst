@@ -211,7 +211,7 @@
 .. image:: pics_instruktsia_korystuvacha_obminy_paketami/instruktsia_korystuvacha_obminy_paketami_27.png
    :align: center
 
-Для масової відправки / видалення пакетів із папки «Чернетки» виділіть необхідні пакети і натисніть кнопку «Відправити» / «Видалити»:
+Для масової відправки / видалення пакетів із папки «Чернетки» виділіть необхідні пакети і натисніть кнопку «Надіслати» / «Видалити»:
 
 .. image:: pics_instruktsia_korystuvacha_obminy_paketami/instruktsia_korystuvacha_obminy_paketami_28.png
    :align: center
