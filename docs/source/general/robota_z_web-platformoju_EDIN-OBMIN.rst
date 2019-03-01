@@ -1,5 +1,5 @@
 ####################################################
-Робота з веб-платформою EDIN-OBMIN
+Работа з веб-платформой EDIN-OBMIN
 ####################################################
 Инструкція по формуванню і відправленню документа Договір на веб-платформі EDIN-OBMIN
 
@@ -9,8 +9,8 @@
 
 ---------
 
-.. |иконка-удалить| image:: pics_Robota_z_web-platformoju_EDIN-OBMIN/pics_Robota_z_web-platformoju_EDIN-OBMIN_23_delete.png 
-.. |иконка-настройки| image:: pics_Robota_z_web-platformoju_EDIN-OBMIN/pics_Robota_z_web-platformoju_EDIN-OBMIN_24_settings.png 
+.. |иконка-удалить| image:: pics_Robota_z_web-platformoju_EDIN-OBMIN/pics_Robota_z_web-platformoju_EDIN-OBMIN_23_delete.png
+.. |иконка-настройки| image:: pics_Robota_z_web-platformoju_EDIN-OBMIN/pics_Robota_z_web-platformoju_EDIN-OBMIN_24_settings.png
 .. |иконка-ключ| image:: pics_Robota_z_web-platformoju_EDIN-OBMIN/pics_Robota_z_web-platformoju_EDIN-OBMIN_25_key.png
 .. |иконка_сохранить| image:: pics_Robota_z_web-platformoju_EDIN-OBMIN/pics_Robota_z_web-platformoju_EDIN-OBMIN_26_save.png
 
@@ -127,7 +127,7 @@
 Створення документа Договір
 =======================================
 
-Для того, щоб створити Договір необхідно натиснути на кнопку **Створити** і з контекстного меню обрати **Коммерційний документ- Договір** 
+Для того, щоб створити Договір необхідно натиснути на кнопку **Створити** і з контекстного меню обрати **Коммерційний документ- Договір**
 
 .. image:: pics_Robota_z_web-platformoju_EDIN-OBMIN/pics_Robota_z_web-platformoju_EDIN-OBMIN_10.png
    :align: center
@@ -178,7 +178,7 @@
 Отримання документа Договір і підписання його з боку отримувача
 =================================================================
 
-Коли документ відправлений, отримувач , що вказаний в документі, побачить його в своєму персональному кабінеті, в каталозі **Вхідні**. 
+Коли документ відправлений, отримувач , що вказаний в документі, побачить його в своєму персональному кабінеті, в каталозі **Вхідні**.
 
 .. image:: pics_Robota_z_web-platformoju_EDIN-OBMIN/pics_Robota_z_web-platformoju_EDIN-OBMIN_17.png
    :align: center
@@ -224,5 +224,5 @@
 **Служба Технічної Підтримки**
 
 * edi-n.com
-* +38 (044) 359-01-12 
+* +38 (044) 359-01-12
 * support@edi-n.com
