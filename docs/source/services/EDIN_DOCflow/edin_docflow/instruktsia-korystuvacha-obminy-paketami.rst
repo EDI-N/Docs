@@ -4,16 +4,16 @@
 
 .. |иконка-звезда| image:: pics_instruktsia_korystuvacha_obminy_paketami/instruktsia_korystuvacha_obminy_paketami_1_star.png
 .. |иконка-щит| image:: pics_instruktsia_korystuvacha_obminy_paketami/instruktsia_korystuvacha_obminy_paketami_2_shield.png
-.. |иконка-ручка| image:: pics_instruktsia_korystuvacha_obminy_paketami/instruktsia_korystuvacha_obminy_paketami_3_pen
-.. |иконка-ведерко| image:: pics_instruktsia_korystuvacha_obminy_paketami/instruktsia_korystuvacha_obminy_paketami_4_bin
-.. |иконка-значок| image:: pics_instruktsia_korystuvacha_obminy_paketami/instruktsia_korystuvacha_obminy_paketami_5_znak
-.. |иконка-получен| image:: pics_instruktsia_korystuvacha_obminy_paketami/instruktsia_korystuvacha_obminy_paketami_6_status_received
-.. |иконка-отклонен| image:: pics_instruktsia_korystuvacha_obminy_paketami/instruktsia_korystuvacha_obminy_paketami_7_status_declined відхилено
-.. |иконка-отказ| image:: pics_instruktsia_korystuvacha_obminy_paketami/instruktsia_korystuvacha_obminy_paketami_8_status_rejected - відмова
-.. |иконка-отправлен| image:: pics_instruktsia_korystuvacha_obminy_paketami/instruktsia_korystuvacha_obminy_paketami_9_status_sent
-.. |иконка-черновик| image:: pics_instruktsia_korystuvacha_obminy_paketami/instruktsia_korystuvacha_obminy_paketami_10_status_draft
-.. |иконка-уточнение| image:: pics_instruktsia_korystuvacha_obminy_paketami/instruktsia_korystuvacha_obminy_paketami_11_status_details
-.. |иконка-информация| image:: pics_instruktsia_korystuvacha_obminy_paketami/instruktsia_korystuvacha_obminy_paketami_12_info
+.. |иконка-ручка| image:: pics_instruktsia_korystuvacha_obminy_paketami/instruktsia_korystuvacha_obminy_paketami_3_pen.png
+.. |иконка-ведерко| image:: pics_instruktsia_korystuvacha_obminy_paketami/instruktsia_korystuvacha_obminy_paketami_4_bin.png
+.. |иконка-значок| image:: pics_instruktsia_korystuvacha_obminy_paketami/instruktsia_korystuvacha_obminy_paketami_5_znak.png
+.. |иконка-получен| image:: pics_instruktsia_korystuvacha_obminy_paketami/instruktsia_korystuvacha_obminy_paketami_6_status_received.png
+.. |иконка-отклонен| image:: pics_instruktsia_korystuvacha_obminy_paketami/instruktsia_korystuvacha_obminy_paketami_7_status_declined.png
+.. |иконка-отказ| image:: pics_instruktsia_korystuvacha_obminy_paketami/instruktsia_korystuvacha_obminy_paketami_8_status_rejected.png
+.. |иконка-отправлен| image:: pics_instruktsia_korystuvacha_obminy_paketami/instruktsia_korystuvacha_obminy_paketami_9_status_sent.png
+.. |иконка-черновик| image:: pics_instruktsia_korystuvacha_obminy_paketami/instruktsia_korystuvacha_obminy_paketami_10_status_draft.png
+.. |иконка-уточнение| image:: pics_instruktsia_korystuvacha_obminy_paketami/instruktsia_korystuvacha_obminy_paketami_11_status_details.png
+.. |иконка-информация| image:: pics_instruktsia_korystuvacha_obminy_paketami/instruktsia_korystuvacha_obminy_paketami_12_info.png
 
 1 Терміни та визначення
 ------------------------
