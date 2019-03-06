@@ -8,4 +8,5 @@ EDIN-DOCflow
   edin_docflow/instruktsia-biznes-administratora
   edin_docflow/instruktsia-administratora-polzovatelei
   edin_docflow/instruktsia-korystuvacha-obminy-paketami
+  edin_docflow/instruktsia-nastroyka-ecp
   
