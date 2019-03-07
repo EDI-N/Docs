@@ -104,7 +104,7 @@
 .. image:: pics_instruktsia-avtorizatsia/instruktsia_avtorizatsia_12.png
    :align: center
 
-Відправник: -  noreply@edi-n.com. Тема листа:  «EDIN-DOCFLOW  Відновлення пароля".
+Відправник: -  noreply@edi-n.com. Тема листа:  «EDIN-DOCFLOW  Відновлення пароля».
 
 .. admonition:: Зверніть увагу!
    В цілях безпеки система блокує введення раніше використаних паролів у відповідності до налаштувань складності пароля.
