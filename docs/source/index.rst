@@ -10,6 +10,7 @@ EDIN | Электронный документооборот для бизнес
 
 .. toctree::
    :maxdepth: 2
+   :caption: EDIN
    
    general/general_list
    
@@ -35,6 +36,9 @@ EDIN | Электронный документооборот для бизнес
    /services/services_list
 
 
+.. toctree::
+   :maxdepth: 2
+   :caption: EDIN 2.0
 
 
 
