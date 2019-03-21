@@ -9,6 +9,7 @@ EDIN | Электронный документооборот для бизнес
 Содержание:
 
 .. toctree::
+   :name: main
    :maxdepth: 2
    :caption: EDIN
    
