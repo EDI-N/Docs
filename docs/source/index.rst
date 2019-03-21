@@ -40,6 +40,4 @@ EDIN | Электронный документооборот для бизнес
    :maxdepth: 2
    :caption: EDIN 2.0
 
-
-
-
+   general_2_0/general_2_0_list
