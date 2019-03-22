@@ -6,8 +6,8 @@
 
 -------------------------
 
-|иконка-дата| image:: pics_instruktsia-structurovanyi-document/instr_struct_doc_iconka_data.png
-|иконка-кубик| image:: pics_instruktsia-structurovanyi-document/instr_struct_doc_iconka_grid.png
+.. |иконка-дата| image:: pics_instruktsia-structurovanyi-document/instr_struct_doc_iconka_data.png
+.. |иконка-кубик| image:: pics_instruktsia-structurovanyi-document/instr_struct_doc_iconka_grid.png
 
 1 Авторизація в системі
 ------------------------
