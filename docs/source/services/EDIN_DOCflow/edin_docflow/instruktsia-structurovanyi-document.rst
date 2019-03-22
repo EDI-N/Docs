@@ -66,9 +66,9 @@
 
 Типи даних (типи елемента) із параметрами, що застосовуються при описі структурованого документа:
 
-.. image:: pics_instruktsia-structurovanyi-document/instr_struct_doc_types1.png
+.. image:: pics_instruktsia-structurovanyi-document/snimok-types1.png
    :align: center
-.. image:: pics_instruktsia-structurovanyi-document/instr_struct_doc_types2.png
+.. image:: pics_instruktsia-structurovanyi-document/snimok-types2.png
    :align: center 
   
 Структура секції data:
