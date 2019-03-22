@@ -71,7 +71,7 @@
   
 Структура секції data:
 
-.. image:: pics_instruktsia-structurovanyi-document/snimok-data-types.png
+.. image:: pics_instruktsia-structurovanyi-document/instr_struct_doc_data-section.png
    :align: center
 
 Для завантаження (внесення) опису структури документа натисніть на іконку «Структурований»:
