@@ -93,7 +93,7 @@
 
 Перевірка елементів структурованого документа при збереженні:
 
-.. image:: pics_instruktsia-structurovanyi-document/instr_struct_doc_validation.png
+.. image:: pics_instruktsia-structurovanyi-document/instr_struct_doc_validation2.png
    :align: center
 
 У разі внесення не коректних даних кнопка «Зберегти» не активується. При внесенні дублюючого опису користувачеві буде відображене відповідне повідомлення. Перевірка на дублі виконується у межах компанії. 
