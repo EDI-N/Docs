@@ -42,3 +42,10 @@ EDIN | Электронный документооборот для бизнес
    :caption: EDIN 2.0
 
    general_2_0/general_2_0_list
+
+.. toctree::
+   :maxdepth: 2
+   :caption: EDIN_DOCflow
+
+   EDIN_DOCflow/EDIN_DOCflow_list
+   
