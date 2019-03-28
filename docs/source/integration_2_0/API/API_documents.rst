@@ -4,6 +4,8 @@
 API Документы
 ##############
 
+.. rst:directive:: .. toggle-header:: class
+
 Сокращения и условные обозначения:
 
 | GLN - Global Location Number (глобальный номер местоположения)  |
