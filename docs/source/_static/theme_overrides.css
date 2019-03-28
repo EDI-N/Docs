@@ -17,34 +17,3 @@
       overflow: visible !important;
    }
 }
-
-/**
- * Это начало для приложения show/hide
- */
- .toggle-tab {
-   margin-bottom: 40px;
-}
-
-.toggle-header {
-   display: block;
-   clear: both;
-   cursor: pointer;
-}
-.toggle-header strong {color: #2980b9 }
-
-.toggle-header:after {
-   content: " ▼";
-}
-
-.toggle-header.open:after {
-   content: " ▲";
-}
-
-.toggle-content {
-   display: none;
-   margin-bottom: 20px;
-}
-
-/**
- * Это конец для приложения show/hide
- */
