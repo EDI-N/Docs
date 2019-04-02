@@ -50,3 +50,10 @@ EDIN | Электронный документооборот для бизнес
 
    EDIN_DOCflow/EDIN_DOCflow_list
    
+.. toctree::
+   :maxdepth: 2
+   :caption: ЗАКОНОДАТЕЛЬНАЯ БАЗА
+
+   Zakon/law_general_list
+   
+   
