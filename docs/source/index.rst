@@ -52,7 +52,7 @@ EDIN | Электронный документооборот для бизнес
    
 .. toctree::
    :maxdepth: 2
-   :caption: ЗАКОНОДАТЕЛЬНАЯ БАЗА
+   :caption: ЗАКОНОДАТЕЛЬСТВО
 
    Zakon/Zakonodavcha_baza
    
