@@ -173,7 +173,7 @@
 
 Для работы с отчетностью нужно выбрать Сервис -> Сертификаты:
 
-.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_18.png
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/1421436294_3.png
    :align: center
 
 .. include:: kontakti.rst
