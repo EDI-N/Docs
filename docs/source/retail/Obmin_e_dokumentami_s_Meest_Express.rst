@@ -195,4 +195,6 @@ e-mail необходимо:
 .. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_19.png
    :align: center
 
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/1421436294_3.png
+
 .. include:: kontakti.rst
