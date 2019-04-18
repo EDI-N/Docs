@@ -192,7 +192,7 @@ e-mail необходимо:
 
 3. После внесения всех необходимых изменений сохранить их нажатием кнопки «**Сохранить изменения**».
 
-.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_18.png
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_19.png
    :align: center
 
 .. include:: kontakti.rst
