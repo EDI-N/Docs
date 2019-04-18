@@ -164,6 +164,11 @@
 ---------------------------
 Портал сертификатов EDIN-Certificate - это онлайн сервис по хранению, обработке, поиску и совместном использования сертификатов в единой среде для всех участников.
 
+Для работы с отчетностью нужно выбрать Сервис -> Сертификаты:
+
+.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_18.png
+   :align: center
+
 Основные возможности сервиса - Портал Сертификатов:
 
 - Быстрый поиск сертификата (2 сек.);
@@ -186,11 +191,6 @@ e-mail необходимо:
    Так же через «,» возможно добавить несколько e-mail. Пример: test@mail.ua,test2@mail.ua,test3@mail.ua
 
 3. После внесения всех необходимых изменений сохранить их нажатием кнопки «**Сохранить изменения**».
-
-.. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_18.png
-   :align: center
-
-Для работы с отчетностью нужно выбрать Сервис -> Сертификаты:
 
 .. image:: pics_Obmin_e_dokumentami_s_Meest_Express/Obmen_e-dokumentami_s_Meest-Express_18.png
    :align: center
