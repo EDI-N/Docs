@@ -1,0 +1,91 @@
+Параметр,Формат,Описание
+.. _XChain: , Объект **XChain**,
+id,long,ID шарда
+uuid,UUID,UUID цепочки документов
+packageID,long,ID пакета
+**type**,**XDocType_**,объект; тип документа
+docsCount,int,количество документов в цепочке
+lastInDocID,long,id последнего входящего документа в цепочке
+lastOutDocID,long,id последнего исходящего документа в цепочке
+partnerId,long,id розничной сети
+important,boolean,"флаг наличия отметки ""важный"" документ"
+**status**,**XChainStatus_**,объект; статус пары документов у отправителя и получателя
+visualStatus,int,"флаг, который содержит номер иконки"
+archive,boolean,"флаг; ""архивный"" документ или нет"
+**childs**,**List<XDoc_>**,массив объектов; данные документов/квитанций
+**chainsInPackage**,**List<XChain_>**,массив объектов; данные связанных цепочек
+hash,String,"хэш-значение, полученное в результате обработки"
+.. _XDocType: , Объект **XDocType**,
+type,int,id типа документа/квитанции
+title,String,название документа/квитанции
+description,String,описание документа/квитанции (наименование на русском)
+.. _XChainStatus: , Объект **XChainStatus**,
+state,int,id статуса
+title,String,статус
+.. _XDoc: ,**Объект XDoc** ,
+body,XDocBodyForms_ ,объект; тела документов
+attachments,List<XDocAttachment_>,массив объектов; вложение (может не использоваться)
+comments,XDocCommentsList_ ,объект (в котором массив объектов); список комментариев
+doc_id,long,id документа
+doc_uuid,UUID,уникальный идентификатор документа/квитанции
+uuidSender,String,уникальный идентификатор отправителя
+uuidReceiver,String,уникальный идентификатор получателя
+docNumber,String,номер документа
+dateCreated,long,дата создания документа (unix timestamp)
+dateChanged,long,дата последнего изменения документа (unix timestamp)
+dateRead,long,дата прочтения документа (unix timestamp)
+docDate,long,"дата документа, указанная в документе"
+chain_id,long,id цепочки документов
+chain_uuid,UUID,уникальный идентификатор цепочки документов
+family,int,семейство (EDI / UZD)
+hash,String,"хэш-значение, полученное в результате обработки"
+type,XDocType_ ,объект; тип документа
+status,XDocStatus,объект; статус пары документов у отправителя и получателя
+exchange_status,String,сабстатус документа
+is_archive,boolean,"флаг; ""архивный"" документ или нет"
+signInfo,XDocSignInfo,объект; данные о подписях
+chain,XChain,объект; данные связанных цепочек
+extraFields,"Map<String, String>",массив объектов; набор индексов (аналог индексных таблиц)
+tags,List<XTag_>,массив объектов; прикрепленные теги
+statuses,List<XStatus>,массив объектов; статусы об обработке отправленных документов
+multiExtraFields,"Map<String, List<String>>"," массив объектов; мультииндекс. Пример использования: {""zzz;zzz;zzz""} - обработка передаваемой строки => разбивка строки по "";"" (условие) => индексирование каждого куска"
+.. _XDocType: ,**Объект XDocType** ,
+type,int,id типа документа/квитанции
+title,String,название документа/квитанции
+description,String,описание документа/квитанции (наименование на русском)
+.. _XDocStatus: ,**Объект XDocStatus** ,
+state,int,id статуса
+title,String,статус
+.. _XTag: ,**Объект XTag** ,
+id,long,id тега
+name,String,содержание тега
+shortName,String,краткое наименование тега
+.. _XStatus: ,**Объект XStatus** ,
+docId,long,id документа/квитанции
+date,long,дата статуса; формат unix timestamp
+type,int,тип статуса
+text,String,содержание статуса
+.. _XDocSignInfo: ,**Объект XDocSignInfo** ,
+doc_id,long,id документа/квитанции
+date,long,дата подписания; формат unix timestamp
+count,short,количество подписей
+info,String,дополнительная информация
+hash,String,"хэш-значение, полученное в результате обработки"
+.. _XDocCommentsList: ,**Объект XDocCommentsList** ,
+XDocCommentsList,List<XDocComment>,массив объектов; комментарии к документу
+.. _XDocComment: ,**Объект XDocComment** ,
+id,long,id комментария
+docUUID,UUID,уникальный идентификатор документа
+createTimestamp,long,дата создания комментария в формате timestamp
+authorLogin,String,автор комментария
+comment,String,содержание комментария
+.. _XDocAttachment: ,**Объект XDocAttachment** ,
+id,long,id вложения
+docUUID,UUID,уникальный идентификатор документа
+fileName,String,наименование файла
+createDate,long,дата создания вложения; формат unix timestamp
+type,String,тип вложения
+base64content,String,содержание вложения в BASE64
+content,byte[],содержание вложения в целочисленном виде
+.. _XDocBodyForms: ,**Объект XDocBodyForms** ,
+forms,"HashMap<String, XDocBody>",массив объектов; тело документа

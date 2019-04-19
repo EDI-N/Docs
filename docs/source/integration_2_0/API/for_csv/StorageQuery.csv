@@ -1,0 +1,52 @@
+Параметр,Тип_,Формат,Описание
+.. StorageQuery: ,, Объект **StorageQuery** ,
+**extraParams**, ,**List<ExtraQueryParameters>**,массив объектов;
+**multiExtraParams**, ,**List<ExtraQueryParameters>**,массив объектов;
+**type**,M,**List<XDocType>**,"массив объектов; список типов документов: 0 - все типы,    1 / 2 / 3 ... и более - конкретный тип документа"
+**statuses**,M,**List<Integer>**,"массив; список статусов (состояний) документов, по которым будет происходить отбор:    0 - все    1 - open    2 - sent    3 - delivered    4 - inbox    5 - read    6 - error    7 - deleted"
+**tags**, ,**List<Long>**,массив; тег
+**exchangeStatus**,O,**List<Integer>**,массив; статус документооборота (суть но __не значения__ **index_intsubstatusid**>>url:https://xwiki.edi.su/bin/view/Tables/Exite_Tables/exite_ru/index_intsubstatusid/]](%%) )
+**docs**, ,**List<Long>**,массив; документы
+**direction**,M,**Direction**,"объект; направление документооборота; указываются отправитель, получатель и связь между ними в критериях отбора документов "
+**limit**,O,**Limitation**,объект; фильтр отбора (настройки вывода данных)
+**orderBy**, ,**OrderBy**,объект; привязка к заказу
+groupBy, ,String,привязка к группе
+number,O,String,номер документа
+family,O,int,семейство (EDI / UZD); возможные значения:    1 - edi    2 - uzd    3 - reports    4 - certificats    5 - factoring
+partnerId, ,Long,id розничной сети
+chainHash, ,String,"хэш-значение, полученное в результате обработки цепочки"
+docHash, ,String,"хэш-значение, полученное в результате обработки документа"
+**docDate**,O,**DateTimeRange**,объект; дата указанная в документе (в формате UNIX-timestamp) с / по
+**docCreate**,O,**DateTimeRange**,объект; дата создания документа (в формате UNIX-timestamp) с / по
+**docRead**,O,**DateTimeRange**,объект; дата прочтения документа (в формате UNIX-timestamp) с / по
+**docChanged**,O,**DateTimeRange**,объект; дата последнего изменения документа (в формате UNIX-timestamp) с / по
+archive, ,Boolean,флаг наличия архивного признака документа
+important, ,boolean,"флаг наличия отметки ""важный"" документ"
+visible, ,boolean,флаг видимости
+loadBody, ,boolean,флаг наличия тела документа
+loadComments, ,boolean,флаг наличия комментариев к документу
+loadStatuses, ,boolean,флаг наличия статусов документа
+loadTags, ,boolean,флаг наличия тегов документа
+loadChain, ,boolean,флаг наличия цепочки документов
+.. ExtraQueryParameters: ,, Объект **ExtraQueryParameters**,
+**operator**, ,"enum (AND, OR)", 
+**type**,M,"enum (EQUALS, EQUALS_UUID, EQUALS_MD5, LIKE, MORE, MORE_EQ, LESS, LESS_EQ, IN)",
+fieldName, ,String, 
+value, ,String, 
+.. XDocType: ,, Объект **XDocType** ,
+type, ,int,id типа документа/квитанции
+title, ,String,название документа/квитанции
+description, ,String,описание документа/квитанции (наименование на русском)
+.. Direction: ,, Объект **Direction** ,
+**type**, ,"enum (EQ, OR, IN)","тип выборки; возможные значения: ""EQ"" / ""OR"" / ""IN"" * EQ - отбираются только документы в которых совпадают указанные И sender, И receiver; * OR - отбираются документы в которых совпадают ИЛИ sender, ИЛИ receiver; * IN - отбираются документы в которых sender или receiver один из тех, которые указаны в массивах sender и receiver"
+sender,M/O,List<String>,"массив; отправители; GLN отправителей, может быть пустым (если указан массив GLN получателей) "
+receiver,M/O,List<String>,"массив; получатели; GLN получателей - обязательный, но может быть пустым если указан массив GLN отправителей (sender)"
+.. Limitation: ,, Объект **Limitation** ,
+offset,O,int,смещение первого элемента списка относительно верхней границы выборки (по умолчанию 0)
+count,O,int,лимит выборки (количество)
+.. OrderBy: ,, Объект **OrderBy** ,
+fieldName, ,String, 
+orderType, ,String, 
+.. DateTimeRange: ,, Объект **DateTimeRange** ,
+startTimestamp, ,long,начало временного диапазона
+finishTimestamp, ,long,окончание временного диапазона
