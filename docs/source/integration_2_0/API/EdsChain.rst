@@ -54,7 +54,7 @@ JSON-параметры в теле HTTP **запроса/ответа**
 Таблица 4 - Описание json-параметров, которые могут передаваться в **ответ** на метод API
 
 .. csv-table:: 
-  :file: files/XChain.csv
+  :file: for_csv/XChain.csv
   :widths:  1, 19, 41
   :header-rows: 1
   :stub-columns: 1

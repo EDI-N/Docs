@@ -40,7 +40,7 @@ JSON-параметры в теле HTTP **запроса/ответа**
 Таблица 2 - Описание json-параметров (фильтр) **запроса** метода API
 
 .. csv-table:: 
-  :file: files/StorageQuery.csv
+  :file: for_csv/StorageQuery.csv
   :widths:  1, 7, 12, 41
   :header-rows: 1
   :stub-columns: 1
@@ -54,7 +54,7 @@ JSON-параметры в теле HTTP **запроса/ответа**
 Таблица 4 - Описание json-параметров, которые могут передаваться в **ответ** на метод API
 
 .. csv-table:: 
-  :file: files/XDoc+.csv
+  :file: for_csv/XDoc+.csv
   :widths:  1, 19, 41
   :header-rows: 1
   :stub-columns: 1

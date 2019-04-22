@@ -38,10 +38,8 @@ JSON-параметры в теле HTTP **запроса/ответа**
 
 Таблица 4 - Описание json-параметров, которые могут передаваться в **ответ** на метод API
 
-ТАБЛИЦА ДОБАВИТЬ  ИДЕНТЕФАЕРС!!!!!!!!!!!!!!111
-
 .. csv-table:: 
-  :file: files/
+  :file: for_csv/Identificator.csv
   :widths:  1, 19, 41
   :header-rows: 1
   :stub-columns: 1
