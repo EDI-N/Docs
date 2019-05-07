@@ -1,0 +1,4 @@
+Параметр,Тип,Формат,Описание
+.. _DateTimeRange: ,, Объект **DateTimeRange** ,
+startTimestamp, ,long,начало временного диапазона
+finishTimestamp, ,long,окончание временного диапазона
