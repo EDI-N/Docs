@@ -4,6 +4,6 @@
 .. toctree::
     :maxdepth: 1
    
-   скрытьAPI/API_list
+   API/API_list
    
   
