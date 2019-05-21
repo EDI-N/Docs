@@ -4,6 +4,5 @@
 .. toctree::
    :maxdepth: 1
    
-   1C_API_integration
-   1C_FTP_integration/1C_FTP_integration_list
+   1C_FTP_integration_2_0/1C_FTP_integration_2_0_list
    
