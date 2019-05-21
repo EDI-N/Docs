@@ -1,8 +1,8 @@
-1C FTP
+1C API
 ###########
 
 .. toctree::
-    :maxdepth: 1
+   :maxdepth: 1
    
    operator_instruction
    
