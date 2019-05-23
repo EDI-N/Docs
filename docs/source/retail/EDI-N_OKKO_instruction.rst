@@ -4,6 +4,12 @@
 
 .. role:: red
 
+An example of using :red:`interpreted text`
+
+:red:`interpreted text`
+
+| :red:`interpreted text`
+
 .. contents:: Зміст:
    :depth: 6
 
