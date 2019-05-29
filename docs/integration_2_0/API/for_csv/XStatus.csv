@@ -1,6 +1,0 @@
-Параметр,Формат,Описание
-.. _XStatus: ,**Объект XStatus** ,
-docId,long,id документа/квитанции
-date,long,дата статуса; формат unix timestamp
-type,int,тип статуса
-text,String,содержание статуса

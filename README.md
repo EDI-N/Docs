@@ -1,7 +1,3 @@
-# Docs
-
-* **Bezginn**
-* **DariaPomaz**
-* **kulichechka**
-----
-
+# Icona
+some text
+екщгидуы aaaasdc asc as

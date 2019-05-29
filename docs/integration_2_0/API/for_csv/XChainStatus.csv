@@ -1,4 +1,0 @@
-Параметр, Формат, Описание
-.. _XChainStatus: , Объект **XChainStatus**, 
-state, int , id статуса
-title, String , статус
