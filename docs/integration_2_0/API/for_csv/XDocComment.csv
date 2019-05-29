@@ -1,0 +1,7 @@
+Параметр,Формат,Описание
+.. _XDocComment: ,**Объект XDocComment** ,
+id,long,id комментария
+docUUID,UUID,уникальный идентификатор документа
+createTimestamp,long,дата создания комментария в формате timestamp
+authorLogin,String,автор комментария
+comment,String,содержание комментария

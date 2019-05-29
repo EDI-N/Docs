@@ -1,0 +1,10 @@
+**Описание**,**Значение**,**Комментарий**
+,**Передача данных с EDI-N**,
+URL for AS2 connection,https://as2.edi-n.com/as2/HttpReceiver,URL (Encoding set applied)
+IP address,37.186.17.138,Required for firewall
+Port,"80, 443",Required for firewall
+Transport,"https, http",http recommended
+Basic HTTP authentication,No,
+,**Передача данных в EDI-N**,
+IP address,37.186.17.141,Required for firewall
+Transport,"https, http",https port 443; http port 80 - recommended

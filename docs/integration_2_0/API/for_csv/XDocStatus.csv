@@ -1,0 +1,4 @@
+Параметр,Формат,Описание
+.. _XDocStatus: ,**Объект XDocStatus** , подробнее_
+state,int,id статуса
+title,String,статус

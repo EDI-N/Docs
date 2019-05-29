@@ -29,7 +29,6 @@ import os
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-
 extensions = [
     'sphinx.ext.autodoc',
     'sphinxcontrib.contentui',
@@ -116,8 +115,6 @@ pygments_style = 'sphinx'
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = False
 
-# Этот кусочек транслируется на каждую страничку для того, чтобы можно было заюзать цвет и размер шрифта
-# rst_epilog = "\n.. include:: _static/text_color_and_size.rst\n"
 
 # -- Options for HTML output ----------------------------------------------
 
@@ -142,21 +139,13 @@ else:
     ],
 }
 
-# попробуем добавить чтение кастомного джеес
-# def setup(app):
-#     app.add_javascript('_static/contentui.js')
-# 
-# def setup(app):
-#     app.add_stylesheet('_static/show.css')
-
-
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 
-#html_theme_options = {
-#    'logo_only': True
-#}
+html_theme_options = {
+    'logo_only': True
+}
 
 # Add any paths that contain custom themes here, relative to this directory.
 #html_theme_path = []
@@ -170,17 +159,17 @@ else:
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-#html_logo = "_static/logo_edin2.gif"
+html_logo = "_static/logo_edin2.gif"
 
 # The name of an image file (relative to this directory) to use as a favicon of
 # the docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
-#html_favicon = "_static/edin.ico"
+html_favicon = "_static/edin.ico"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-#html_static_path = ['_static']
+html_static_path = ['_static']
 
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
