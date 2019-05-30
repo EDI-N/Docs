@@ -1,0 +1,13 @@
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+  <S:Body>
+    <ns2:getListResponse xmlns:ns2="http://soap.edi.service.org/">
+      <result>
+        <errorCode>0</errorCode>
+        <list>status_20159904.xml</list>
+        <list>status_2032.xml</list>
+        <list>status_2014911.xml</list>
+        <list>order_201630.xml</list>
+      </result>
+    </ns2:getListResponse>
+  </S:Body>
+</S:Envelope>

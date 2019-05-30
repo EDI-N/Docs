@@ -1,0 +1,3 @@
+Параметр,Формат,Описание
+.. _XDocCommentsList: ,**Объект XDocCommentsList** ,
+XDocCommentsList,List<XDocComment_>,массив объектов; комментарии к документу
