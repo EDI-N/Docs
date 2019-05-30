@@ -56,4 +56,8 @@ EDIN | Электронный документооборот для бизнес
 
    Zakon/Zakonodavcha_baza
    
-   
+.. toctree::
+   :maxdepth: 2
+   :caption: Чудо техники
+
+   1C_integration_2_0/1C_integration_2_0_list
