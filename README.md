@@ -1,7 +1,0 @@
-# Docs
-
-* **Bezginn**
-* **DariaPomaz**
-* **kulichechka**
-----
-

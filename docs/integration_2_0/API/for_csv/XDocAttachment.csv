@@ -1,9 +1,0 @@
-Параметр,Формат,Описание
-.. _XDocAttachment: ,**Объект XDocAttachment** ,
-id,long,id вложения
-docUUID,UUID,уникальный идентификатор документа
-fileName,String,наименование файла
-createDate,long,дата создания вложения; формат unix timestamp
-type,String,тип вложения
-base64content,String,содержание вложения в BASE64
-content,byte[],содержание вложения в целочисленном виде
