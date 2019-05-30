@@ -1,0 +1,10 @@
+
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+  <S:Body>
+    <ns2:sendDocResponse xmlns:ns2="http://soap.edi.service.org/">
+      <result>
+        <errorCode>0</errorCode>
+      </result>
+    </ns2:sendDocResponse>
+  </S:Body>
+</S:Envelope>

@@ -1,0 +1,29 @@
+Параметр,Тип_,Формат,Описание
+.. _StorageQuery: ,, Объект **StorageQuery** ,
+**extraParams**, ,List<ExtraQueryParameters_>,массив объектов;
+**multiExtraParams**, ,List<ExtraQueryParameters_>,массив объектов;
+**type**,M,List<XDocType_>,"массив объектов; список типов документов: 0 - все типы,    1 / 2 / 3 ... и более - конкретный тип документа"
+**statuses**,M,**List<Integer>**,"массив; список статусов (состояний) документов, по которым будет происходить отбор:    0 - все    1 - open    2 - sent    3 - delivered    4 - inbox    5 - read    6 - error    7 - deleted"
+**tags**, ,**List<Long>**,массив; тег
+**exchangeStatus**,O,**List<Integer>**,массив; статус документооборота
+**docs**, ,**List<Long>**,массив; документы
+**direction**,M,Direction_,"объект; направление документооборота; указываются отправитель, получатель и связь между ними в критериях отбора документов "
+**limit**,O,Limitation_,объект; фильтр отбора (настройки вывода данных)
+number,O,String,номер документа
+family,O,int,семейство (EDI / UZD); возможные значения:    1 - edi
+partnerId, ,Long,id розничной сети
+chainHash, ,String,"хэш-значение, полученное в результате обработки цепочки"
+docHash, ,String,"хэш-значение, полученное в результате обработки документа"
+**docDate**,O,DateTimeRange_,объект; дата указанная в документе (в формате UNIX-timestamp) с / по
+**docCreate**,O,DateTimeRange_,объект; дата создания документа (в формате UNIX-timestamp) с / по
+**docRead**,O,DateTimeRange_,объект; дата прочтения документа (в формате UNIX-timestamp) с / по
+**docChanged**,O,DateTimeRange_,объект; дата последнего изменения документа (в формате UNIX-timestamp) с / по
+archive, ,Boolean,флаг наличия архивного признака документа
+important, ,boolean,"флаг наличия отметки ""важный"" документ"
+visible, ,boolean,флаг видимости
+loadBody, ,boolean,флаг наличия тела документа
+loadComments, ,boolean,флаг наличия комментариев к документу
+loadStatuses, ,boolean,флаг наличия статусов документа
+loadTags, ,boolean,флаг наличия тегов документа
+loadChain, ,boolean,флаг наличия цепочки документов
+

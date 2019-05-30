@@ -1,0 +1,28 @@
+Параметр,Формат,Описание
+.. _XDoc: ,**Объект XDoc** ,
+body,XDocBodyForms_ ,объект; тела документов
+attachments,List<XDocAttachment_>,массив объектов; вложение (может не использоваться)
+comments,XDocCommentsList_ ,объект (в котором массив объектов); список комментариев
+doc_id,long,id документа
+doc_uuid,UUID,уникальный идентификатор документа/квитанции
+uuidSender,String,уникальный идентификатор отправителя
+uuidReceiver,String,уникальный идентификатор получателя
+docNumber,String,номер документа
+dateCreated,long,дата создания документа (unix timestamp)
+dateChanged,long,дата последнего изменения документа (unix timestamp)
+dateRead,long,дата прочтения документа (unix timestamp)
+docDate,long,"дата документа, указанная в документе"
+chain_id,long,id цепочки документов
+chain_uuid,UUID,уникальный идентификатор цепочки документов
+family,int,семейство (EDI / UZD)
+hash,String,"хэш-значение, полученное в результате обработки"
+type,XDocType ,объект; тип документа
+status,XDocStatus_,объект; статус пары документов у отправителя и получателя
+exchange_status,String,сабстатус документа
+is_archive,boolean,"флаг; ""архивный"" документ или нет"
+signInfo,XDocSignInfo_,объект; данные о подписях
+chain,XChain,объект; данные связанных цепочек
+extraFields,"Map<String, String>",массив объектов; набор индексов (аналог индексных таблиц)
+tags,List<XTag_>,массив объектов; прикрепленные теги
+statuses,List<XStatus_>,массив объектов; статусы об обработке отправленных документов
+multiExtraFields,"Map<String, List<String>>"," массив объектов; мультииндекс. Пример: {'key1': ['val1', 'val2'], 'key2': ['val1', 'val2']}. Используется, например для обработки передаваемой строки => разбивка строки по условию => индексирование каждого куска"

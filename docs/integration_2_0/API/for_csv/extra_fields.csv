@@ -1,0 +1,57 @@
+id параметра,Наименование параметра,Тип,Формат,Описание параметра
+1, created_from  ,, UUID  , идентификатор документа или цепочки
+2, is_signed  ,, TINYINT  , отметка о подписании 
+3, encrypted  ,, TINYINT  , отметка о шифровании 
+4, comdoc_reestr_id ,, INT, id факторингового Реестра на основании коммерческого документа 
+5, comdoc_reestr_is_active,, TINYINT  , отметка об активности факторингового договора
+6, ftpex_file_name  ,, VARCHAR  ," наименование файла,  отправленного по FTP "
+7, ftpex_file_date  ,, INT, дата/время отправки документа по FTP  
+8, inv_date,, INT, дата документа invrpt (Отчет об инвентаризации) 
+9, inv_num ,, VARCHAR  , номер документа invrpt (Отчет об инвентаризации) 
+11, sub_doc_type_id  ,, INT, id подтипа документа  
+12, sub_status_id ,, INT, id статуса документа (состояние цепочки документов)  
+13, action  ,, VARCHAR  , статус документа по осуществленным действиям пользователя 
+14, buyer_uuid ,, VARCHAR  , отправитель документа  
+15, consignee_uuid,, VARCHAR  , грузопполучатель
+16, consignor_uuid,, VARCHAR  , грузоотправитель
+17, customer_uuid ,, VARCHAR  , покупатель 
+18, performer_uuid,, VARCHAR  , исполнитель  
+19, supplier_uuid ,, VARCHAR  , поставщик  
+20, delivery_place_uuid ,, VARCHAR  , место доставки 
+21, contract_date ,, VARCHAR  , дата договора
+22, contract_number  ,, VARCHAR  , номер договора
+23, delivery_date , M , INT, дата доставки
+24, order_number  , M , VARCHAR  , номер заказа 
+25, order_date ,, INT, дата заказа  
+26, return_date,, INT, дата возврата  
+27, summ ,, VARCHAR  , сумма с НДС 
+28, parent_chain_hash,, MD5, хэш цепочки  
+29, period  ,, VARCHAR  , крайняя дата подписи документа   
+31, trans_id,, VARCHAR  , id транзакции  
+32, ttn  ,, VARCHAR  , номер накладной 
+33, doc_start_date,, VARCHAR  , начало срока подписания документа
+34, doc_end_date  ,, VARCHAR  , окончание срока подписания документа
+35, delivery_note_number,, VARCHAR  , номер накладной  
+42, contract_gln  ,, VARCHAR  , GLN место доставки при товарном согласовании (Agreem->Comdoc) 
+43, doc_date,, INT, дата из документа 
+44, delivery_agreement_number ,, VARCHAR  , количество согласований  
+45, delivery_agreement_date,, INT, дата согласования  
+46, varn ,, VARCHAR  , юзд id документа  
+47, other_info ,, TEXT  , дополнительные данные 
+48, sub_doc_date  ,, INT, дата подтипа документа  
+49, sub_doc_number,, VARCHAR  , номер подтипа документа  
+50, doc_error  ,, TEXT  , шибка при работе с документом 
+51, doc_info,, TEXT  , комментарий к документу
+52, old_doc_id ,, INT, id документа  
+53, sub_status_date  ,, INT, дата статуса документа (состояние цепочки документов)
+54, from_doc_id,, INT, порядковый номер документа в цепочке 
+56, doc_num ,, VARCHAR  , номер документа 
+57, sender  ,, VARCHAR  , GLN отправителя 
+58, recipient  ,, VARCHAR  , GLN получателя  
+59, file_name  ,, VARCHAR  ,"наименование прикладываемого (вложение) файла "
+60, xml_hash,, VARCHAR  , хеш содержания документа  
+61, answer_doc_id ,, INT, id ответного COMDOC документа
+80, identifier ,, VARCHAR  , идентификатор документа в системе клиента
+82, compound_number  ,, VARCHAR  , составной номер  
+85,doc_process,,TINYINT,
+87,users,,VARCHAR,
