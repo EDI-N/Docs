@@ -34,7 +34,7 @@ sys.path.insert(0, os.path.abspath('sphinxcontrib'))
 
 extensions = [
     'sphinx.ext.autodoc',
-    'contentui',
+    'sphinxcontrib.contentui',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
