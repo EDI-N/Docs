@@ -1,0 +1,17 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:soap="http://soap.edi.service.org">
+  <soapenv:Header />
+  <soapenv:Body>
+    <soap:getDocumentsRequest>
+      <!-- Optional: -->
+      <user>
+        <!-- Optional: -->
+        <login>login</login>
+        <!-- Optional: -->
+        <pass>parol</pass>
+      </user>
+      <!-- Zero or more repetitions: -->
+      <fileName>hello.xml</fileName>
+      <fileName>musician.xml</fileName>
+    </soap:getDocumentsRequest>
+  </soapenv:Body>
+</soapenv:Envelope>
