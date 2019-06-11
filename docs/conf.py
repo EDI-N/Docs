@@ -150,7 +150,8 @@ def setup(app):
 # documentation.
 
 html_theme_options = {
-    'logo_only': True
+    'logo_only': True,
+    'display_version': False
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
