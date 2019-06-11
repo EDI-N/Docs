@@ -5,4 +5,5 @@
     :maxdepth: 1
    
    rabota_s_platformoj_EDIN_2.0
+   test
    
