@@ -177,7 +177,7 @@
 
 Після цього можна буде вводити значення довідника. Для додання нових значень натисніть «Додати» і заповніть поля форми, що відкриється:
 
-.. image:: pics_instruktsia-biznes-administratora/foto15.png
+.. image:: pics_instruktsia-biznes-administratora/foto97_1.png
    :align: center
 
 .. admonition:: Зверніть увагу!
@@ -236,7 +236,7 @@
 
 Для спрощення процесу налаштування типів документів у сервісі реалізована можливість завантаження та вивантаження їх переліку в форматі Excel:
 
-.. image:: pics_instruktsia-biznes-administratora/foto20.png
+.. image:: pics_instruktsia-biznes-administratora/foto98.png
    :align: center
 
 Для вивантаження переліку типів документів натисніть «В Excel» та оберіть каталог на жорсткому диску ПК чи змінному носії для збереження файлу.
