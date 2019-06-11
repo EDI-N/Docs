@@ -2,6 +2,6 @@
 
 * **Bezginn**
 * **DariaPomaz**
-* **kulichechka**
+
 ----
 

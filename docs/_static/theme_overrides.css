@@ -18,6 +18,11 @@
    }
 }
 
+  /* Navigation headers */ 
+   .wy-menu-vertical header,
+   .wy-menu-vertical p.caption {color: #32a55c}
+
+
 /* Colors and text decoration.
  For example, :black:`text in black` or :blink:`text blinking` in rST.
  В общем сначала на странице прописываем руками роли а потом уже вызываем внутри текста, например :red:`красный текст`. Роли:
