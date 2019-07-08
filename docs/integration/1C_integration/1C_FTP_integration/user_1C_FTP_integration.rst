@@ -87,7 +87,7 @@
 
 В форме списка заказов заполнится поле **Заказ 1С** номером заказа в 1С.
 
-.. image:: pics_user_1C_FTP_integration/user_1C_FTP_integration_1g
+.. image:: pics_user_1C_FTP_integration/user_1C_FTP_integration_13.png
    :align: center
 
 Для просмотра заказа в 1С выберите заказ в списке (флажок можно не устанавливать) и нажмите кнопку **Открыть Заказ 1С**.
