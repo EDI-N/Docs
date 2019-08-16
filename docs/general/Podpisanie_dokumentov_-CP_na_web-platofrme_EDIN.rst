@@ -41,11 +41,6 @@
 .. image:: pics_Podpisanie_dokumentov_ECP_na_web-platofrme_EDIN/pics_Podpisanie_dokumentov_ECP_na_web-platofrme_EDIN_04.png
    :align: center
 
-Если Вы используете ключи от **АЦСК “ПриватБанк”**, файлы подписей секрентных ключей имеют расширение **.jks**.
-
-.. image:: pics_Podpisanie_dokumentov_ECP_na_web-platofrme_EDIN/pics_Podpisanie_dokumentov_ECP_na_web-platofrme_EDIN_05.png
-   :align: center
-
 Если Вы используете ключи от любых других АЦСК, файлы подписей секрентных ключей имеют наименование **Key-6.dat**.
 
 .. image:: pics_Podpisanie_dokumentov_ECP_na_web-platofrme_EDIN/pics_Podpisanie_dokumentov_ECP_na_web-platofrme_EDIN_06.png
