@@ -242,6 +242,11 @@ EDI и Товары. На платформе отдельно разделены
 .. image:: pics_rabota_s_platformoj_EDIN_2.0/rabota_s_platformoj_EDIN_2.0_37.png
    :align: center
 
+5. В журнале документов есть возможность отметить документы как “**Важные**”. Посмотреть комментарии в документе, а также поставить метки.
+
+.. image:: pics_rabota_s_platformoj_EDIN_2.0/rabota_s_platformoj_EDIN_2.0_20.png
+   :align: center
+
 **Расширенный поиск документов**
 ================================================
 
