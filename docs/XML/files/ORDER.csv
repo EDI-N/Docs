@@ -48,7 +48,7 @@ LATESTDELIVERYDATE,O,Дата (ГГГГ-ММ-ДД),Дата не позднее
 SUPPLIER,M,Число (13),GLN поставщика
 BUYER,M,Число (13),GLN покупателя
 BUYERCODE,O,Строка (35),Код покупателя
-BRANCHCODE,O,Строка,Код филиала
+BRANCHCODE,O,Строка,Код филиала (для "Нова Лінія" и "ЕПІЦЕНТР К")
 DELIVERYPLACE,M,Число (13),GLN места доставки
 FINALRECIPIENT,O,Число (13),GLN конечного консигнатора
 ORDERPARTNER,O,Число (13),GLN заказчика
