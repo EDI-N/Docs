@@ -217,6 +217,18 @@ XML Спецификации
 
 ---------
 
+Анулювання (COMDOC_019)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. csv-table:: Анулювання (COMDOC_019)
+  :file: files/COMDOC_019.csv
+  :widths:  40, 7, 12, 41
+  :header-rows: 1
+
+:download:`Пример COMDOC_019<examples/comdoc_anuluvannya.xml>`
+
+---------
+
 Повідомлення про відмову від підписання документу (COMDOC_021)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -334,6 +346,18 @@ XML Спецификации
   :header-rows: 1
 
 :download:`Пример COMDOC_030<examples/comdoc_030_example.xml>`
+
+---------
+
+Накладна на зворотну тару (COMDOC_031)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. csv-table:: Накладна на зворотну тару (COMDOC_031)
+  :file: files/COMDOC_031.csv
+  :widths:  40, 7, 12, 41
+  :header-rows: 1
+
+:download:`Пример COMDOC_031<examples/comdoc_031_example.xml>`
 
 ---------
 
