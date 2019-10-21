@@ -1,1 +1,3 @@
 -e git://github.com/ulrobix/sphinxcontrib-contentui.git#egg=sphinxcontrib-contentui
+# For fancy 404 pages
+git+https://github.com/rtfd/sphinx-notfound-page@master#egg=sphinx-notfound-page
