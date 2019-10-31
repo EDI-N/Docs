@@ -31,7 +31,7 @@ TRANSPORTATIONPAYMENTTYPE,O,Строка (35),Тип оплаты доставк
 TRANSPORTATIONROUTE,O,Строка (70),Маршрут доставки
 BLANKETORDERNUMBER,O,Строка (35),Номер бланкового заказа
 INFOCODED,O,Строка (35),Инфокод
-DOCTYPE,O,Строка (1),"Тип документа:
+DOCTYPE,O,Строка (1), "Тип документа:
 O — оригинал,
 R — замена,
 D — удаление,
