@@ -25,9 +25,9 @@ PRODUCT,М,"Число (8, 10, 14)",Штрих-код продукта
 PRODUCTIDSUPPLIER,О,Строка (16),Артикул в БД поставщика
 PRODUCTIDBUYER,О,Строка (16),Артикул в БД покупателя
 DELIVEREDQUANTITY,М,Число положительное,Поставляемое количество
-DELIVEREDUNIT,О,Строка (3),Единицы измерения
+DELIVEREDUNIT,О,Строка (3),`Единицы измерения <https://wiki.edi-n.com/ru/latest/XML/units_edi.html>`__
 ORDEREDQUANTITY,О,Число положительное,Заказанное количество
-ORDERUNIT,О,Строка (3),Единицы измерения
+ORDERUNIT,О,Строка (3),`Единицы измерения <https://wiki.edi-n.com/ru/latest/XML/units_edi.html>`__
 CUSTOMSTARIFFNUMBER,О,Строка (30),Номер государственной таможенной декларации (ГТД)
 PRICE,О,Число десятичное,Цена продукта без НДС
 PRICEWITHVAT,О,Число десятичное,Цена продукта c НДС

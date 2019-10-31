@@ -44,7 +44,7 @@ PROMOWITHVAT,O, ,Промоцена с НДС
 PROMODISCOUNT,O,Дата (ГГГГ-ММ-ДД),% промоскидки
 POSITIONACTION,O, ,Поставка не позднее указанного времени 
 VAT,О, ,"Ставка НДС, %"
-UNIT,O, ,"Единицы измерения, шт"
+UNIT,O, ,`Единицы измерения <https://wiki.edi-n.com/ru/latest/XML/units_edi.html>`__
 STATUS,M, ,Принять / отклонить
 **OCERTS**,O, ,Сертификат/-ы (начало блока)
 CERT_NUM,O,Строка (16),№ сертификата

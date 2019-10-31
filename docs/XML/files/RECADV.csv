@@ -59,7 +59,7 @@ PRODUCTIDSUPPLIER,О,Строка (16),Артикул в БД поставщик
 PRODUCTIDBUYER,О,Строка (16),Артикул в БД покупателя
 BUYERPARTNUMBER,О,Строка (16),Внутренний системный номер артикула в БД покупателя
 ACCEPTEDQUANTITY,М,Число положительное,Принятое количество товара
-ACCEPTEDUNIT,O,Строка (3),Единицы измерения
+ACCEPTEDUNIT,O,Строка (3),`Единицы измерения <https://wiki.edi-n.com/ru/latest/XML/units_edi.html>`__
 DELIVERQUANTITY,М,Число положительное,Поставляемое количество товара
 ORDERQUANTITY,М,Число положительное,Заказанное количество товара
 DELTAQUANTITY,O,Число положительное,Рассхождение
