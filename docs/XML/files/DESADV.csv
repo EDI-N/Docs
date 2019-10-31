@@ -53,13 +53,13 @@ PRODUCT,М,"Число (8, 10, 14)",Штрихкод продукта
 PRODUCTIDSUPPLIER,О,Строка (16),Артикул в БД поставщика
 PRODUCTIDBUYER,О,Строка (16),Артикул в БД покупателя
 DELIVEREDQUANTITY,М,Число положительное,Поставляемое количество
-DELIVEREDUNIT,О,Строка (3),Единицы измерения
+DELIVEREDUNIT,О,Строка (3),`Единицы измерения <https://wiki.edi-n.com/ru/latest/XML/units_edi.html>`__
 ORDEREDQUANTITY,О,Число положительное,Заказанное количество9
-ORDERUNIT,O,Строка (3),Единицы измерения
+ORDERUNIT,O,Строка (3),`Единицы измерения <https://wiki.edi-n.com/ru/latest/XML/units_edi.html>`__
 SSCC,O,Число (18),Серийный код транспортной упаковки
 PARTYNAME,O,Строка(70),Название производителя
 INVOICEDQUANTITY,O,Число положительное,Количество по счету
-INVOICEUNIT,O,Строка (3),Единицы измерения
+INVOICEUNIT,O,Строка (3),`Единицы измерения <https://wiki.edi-n.com/ru/latest/XML/units_edi.html>`__
 AMOUNT,O,Число десятичное,Сумма товара без НДС
 AMOUNTWITHVAT,O,Число десятичное,Сумма товара сНДС
 PORTAL_CERT,О,Строка (30),Номер сертификата

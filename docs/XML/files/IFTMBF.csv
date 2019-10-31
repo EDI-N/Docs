@@ -14,9 +14,9 @@ DELIVERYTIME,O,Время (чч:мм),Время доставки
 PORTOFLOADING,O,Строка (70),Место погрузки (Морской порт)
 INFO,O,Строка (70),Дополнительная информация
 TOTALWEIGHT,O,Число десятичное,Общий вес
-TOTALWEIGHTUNIT,O,Строка (3),Единицы измерения (согласно справочнику)
+TOTALWEIGHTUNIT,O,Строка (3),`Единицы измерения <https://wiki.edi-n.com/ru/latest/XML/units_edi.html>`__
 TOTALVOLUME,O,Число десятичное,Общий объем
-TOTALVOLUMEUNIT,O,Строка (3),Единицы измерения
+TOTALVOLUMEUNIT,O,Строка (3),`Единицы измерения <https://wiki.edi-n.com/ru/latest/XML/units_edi.html>`__
 TOTALEQUIPMENTQUANTITY,O,Число десятичное,Общее количество оборудования
 ORDERNUMBER,O,Строка (35),Номер заказа товара
 CAMPAIGNNUMBER,O,Строка (35),Номер договора на поставку
@@ -95,7 +95,7 @@ PRODUCT,O,"Число (8, 10, 14)",Штрихкод продукта
 DESCRIPTION,O,Строка (70),Название продуктов в упаковке
 DELIVERYPLACE,M,Число (13),Место доставки одной позиции
 WEIGHT,O,Число десятичное,Вес
-WEIGHTUNIT,O,Строка (3),Единицы измерения
+WEIGHTUNIT,O,Строка (3),`Единицы измерения <https://wiki.edi-n.com/ru/latest/XML/units_edi.html>`__
 PRODUCTIDBUYER,O,Строка (35),Артикул в БД покупателя
 **GOODSDETAILS**, , ,Данные по грузу (окончание блока)
 **EQUIPMENTDETAILS**, , ,Данные по транспорту (начало блока)

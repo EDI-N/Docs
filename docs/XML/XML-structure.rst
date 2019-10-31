@@ -23,8 +23,6 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
-.. include:: units.rst
-
 ---------
 
 Заказ (ORDER)
@@ -34,8 +32,6 @@ XML Спецификации
   :file: files/ORDER.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
-
-.. include:: units.rst
 
 ---------
 
@@ -47,8 +43,6 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
-.. include:: units.rst
-
 ---------
 
 Уведомление об отгрузке (DESADV)
@@ -58,8 +52,6 @@ XML Спецификации
   :file: files/DESADV.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
-
-.. include:: units.rst
 
 ---------
 
@@ -71,8 +63,6 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
-.. include:: units.rst
-
 ---------
 
 Счет (INVOICE)
@@ -82,8 +72,6 @@ XML Спецификации
   :file: files/INVOICE.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
-
-.. include:: units.rst
 
 ---------
 
@@ -95,8 +83,6 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
-.. include:: units.rst
-
 ---------
 
 Коммерческий документ (COMDOC)
@@ -107,6 +93,8 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units_comdoc.rst
+
 ---------
 
 Акт про виявлені недоліки (COMDOC_005)
@@ -116,6 +104,8 @@ XML Спецификации
   :file: files/COMDOC_005.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units_comdoc.rst
 
 :download:`Пример COMDOC_005<examples/comdoc_005_example.xml>`
 
@@ -129,6 +119,8 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units_comdoc.rst
+
 :download:`Пример COMDOC_006<examples/comdoc_006_example.xml>`
 
 ---------
@@ -140,6 +132,8 @@ XML Спецификации
   :file: files/COMDOC_007.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units_comdoc.rst
 
 :download:`Пример COMDOC_007<examples/comdoc_007_example.xml>`
 
@@ -153,6 +147,8 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units_comdoc.rst
+
 :download:`Пример COMDOC_008<examples/comdoc_008_example.xml>`
 
 ---------
@@ -164,6 +160,8 @@ XML Спецификации
   :file: files/COMDOC_011.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units_comdoc.rst
 
 :download:`Пример COMDOC_011<examples/comdoc_011_example.xml>`
 
@@ -177,6 +175,8 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units_comdoc.rst
+
 :download:`Пример COMDOC_012<examples/comdoc_012_example.xml>`
 
 ---------
@@ -188,6 +188,8 @@ XML Спецификации
   :file: files/COMDOC_013.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units_comdoc.rst
 
 :download:`Пример COMDOC_013<examples/comdoc_013_018_example.xml>`
 
@@ -201,6 +203,8 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units_comdoc.rst
+
 :download:`Пример COMDOC_016<examples/comdoc_016_example.xml>`
 
 ---------
@@ -212,6 +216,8 @@ XML Спецификации
   :file: files/COMDOC_018.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units_comdoc.rst
 
 :download:`Пример COMDOC_018<examples/comdoc_013_018_example.xml>`
 
@@ -225,6 +231,8 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units_comdoc.rst
+
 :download:`Пример COMDOC_019<examples/comdoc_anuluvannya.xml>`
 
 ---------
@@ -236,6 +244,8 @@ XML Спецификации
   :file: files/COMDOC_021.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units_comdoc.rst
 
 :download:`Пример COMDOC_021<examples/comdoc_021_example.xml>`
 
@@ -249,6 +259,8 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units_comdoc.rst
+
 :download:`Пример COMDOC_022<examples/comdoc_022_example.xml>`
 
 ---------
@@ -260,6 +272,8 @@ XML Спецификации
   :file: files/COMDOC_023.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units_comdoc.rst
 
 :download:`Пример COMDOC_023<examples/comdoc_023_example.xml>`
 
@@ -273,6 +287,8 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units_comdoc.rst
+
 :download:`Пример COMDOC_024<examples/comdoc_024_example.xml>`
 
 ---------
@@ -284,6 +300,8 @@ XML Спецификации
   :file: files/COMDOC_025.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units_comdoc.rst
 
 :download:`Пример COMDOC_025<examples/comdoc_025_example.xml>`
 
@@ -297,6 +315,8 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units_comdoc.rst
+
 :download:`Пример COMDOC_026<examples/comdoc_026_example.xml>`
 
 ---------
@@ -308,6 +328,8 @@ XML Спецификации
   :file: files/COMDOC_027.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units_comdoc.rst
 
 :download:`Пример COMDOC_027<examples/comdoc_027_example.xml>`
 
@@ -321,6 +343,8 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units_comdoc.rst
+
 :download:`Пример COMDOC_028<examples/comdoc_028_example.xml>`
 
 ---------
@@ -332,6 +356,8 @@ XML Спецификации
   :file: files/COMDOC_029.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units_comdoc.rst
 
 :download:`Пример COMDOC_029<examples/comdoc_029_example.xml>`
 
@@ -345,6 +371,8 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
+.. include:: units_comdoc.rst
+
 :download:`Пример COMDOC_030<examples/comdoc_030_example.xml>`
 
 ---------
@@ -356,6 +384,8 @@ XML Спецификации
   :file: files/COMDOC_031.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
+
+.. include:: units_comdoc.rst
 
 :download:`Пример COMDOC_031<examples/comdoc_031_example.xml>`
 
@@ -388,8 +418,6 @@ XML Спецификации
   :widths:  25, 25, 50
   :header-rows: 1
 
-.. include:: units.rst
-
 ---------
 
 Отчет о продажах (SLSRPT)
@@ -399,8 +427,6 @@ XML Спецификации
   :file: files/SLSRPT.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
-
-.. include:: units.rst
 
 ---------
 
@@ -412,8 +438,6 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
-.. include:: units.rst
-
 ---------
 
 Информация о контрагенте для поставщика (PARTIN)
@@ -423,8 +447,6 @@ XML Спецификации
   :file: files/PARTIN_P.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
-
-.. include:: units.rst
 
 ---------
 
@@ -436,8 +458,6 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
-.. include:: units.rst
-
 ---------
 
 Коммерческая дискуссия (COMDIS)
@@ -447,8 +467,6 @@ XML Спецификации
   :file: files/COMDIS.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
-
-.. include:: units.rst
 
 ---------
 
@@ -460,8 +478,6 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
-.. include:: units.rst
-
 ---------
 
 Уведомление об отгрузке для распределительного центра (DESSCC)
@@ -471,8 +487,6 @@ XML Спецификации
   :file: files/DESSCC.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
-
-.. include:: units.rst
 
 ---------
 
@@ -484,8 +498,6 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
-.. include:: units.rst
-
 ---------
 
 Акт выполненных работ (ACT)
@@ -495,8 +507,6 @@ XML Спецификации
   :file: files/ACT.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
-
-.. include:: units.rst
 
 ---------
 
@@ -508,8 +518,6 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
-.. include:: units.rst
-
 ---------
 
 Инструкция о транспортировке (IFTMIN)
@@ -519,8 +527,6 @@ XML Спецификации
   :file: files/IFTMIN.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
-
-.. include:: units.rst
 
 ---------
 
@@ -532,8 +538,6 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
-.. include:: units.rst
-
 ---------
 
 Инструкция о возврате (RETINS)
@@ -543,8 +547,6 @@ XML Спецификации
   :file: files/RETINS.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
-
-.. include:: units.rst
 
 ---------
 
@@ -556,8 +558,6 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
-.. include:: units.rst
-
 ---------
 
 Подтверждение заказа на транспортировку (IFTMBC)
@@ -567,8 +567,6 @@ XML Спецификации
   :file: files/IFTMBC.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
-
-.. include:: units.rst
 
 ---------
 
@@ -580,8 +578,6 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
-.. include:: units.rst
-
 ---------
 
 Неструктурированный документ(CONDRA)
@@ -591,8 +587,6 @@ XML Спецификации
   :file: files/CONDRA.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
-
-.. include:: units.rst
 
 ---------
 
@@ -604,8 +598,6 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
-.. include:: units.rst
-
 ---------
 
 Реестр (REESTR)
@@ -615,8 +607,6 @@ XML Спецификации
   :file: files/REESTR.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
-
-.. include:: units.rst
 
 ---------
 
@@ -628,8 +618,6 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
-.. include:: units.rst
-
 ---------
 
 Корректировка к налоговой накладной (DECLARj12)
@@ -639,8 +627,6 @@ XML Спецификации
   :file: files/DECLARj12.csv
   :widths:  30, 7, 10, 10, 43
   :header-rows: 1
-
-.. include:: units.rst
 
 ---------
 
@@ -652,8 +638,6 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
-.. include:: units.rst
-
 ---------
 
 Корректировка товарной накладной (DOCCORINVOICE)
@@ -663,8 +647,6 @@ XML Спецификации
   :file: files/DOCCORINVOICE.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
-
-.. include:: units.rst
 
 ---------
 
@@ -676,8 +658,6 @@ XML Спецификации
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
-.. include:: units.rst
-
 ---------
 
 Статус (STATUS)
@@ -687,7 +667,5 @@ XML Спецификации
   :file: files/STATUS.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
-
-.. include:: units.rst
 
 
