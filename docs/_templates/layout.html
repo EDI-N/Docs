@@ -34,4 +34,8 @@
     </script>
 {% endblock %}
 
-
+    <!-- Костыльный селектор языка -->
+{% block sidebartitle %}
+{{ super() }}
+<select id="LanguageDropdown" class="language-dropdown" onChange="window.location.href=this.value"><option value="https://wiki.edi-n.com/ru/latest/">Русский</option><option value="https://wiki.edi-n.com/uk/latest/">Українська</option><option value="https://wiki.edi-n.com/en/latest/">English</option></select>
+{% endblock %}

@@ -33,7 +33,11 @@ import os
 extensions = [
     'sphinx.ext.autodoc',
     'sphinxcontrib.contentui',
+    'notfound.extension',
 ]
+
+# for 404 page
+notfound_default_language = 'ru'
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -127,6 +131,7 @@ html_theme = 'sphinx_rtd_theme'
 
 def setup(app):
     app.add_stylesheet('theme_overrides.css')
+    app.add_javascript('galaga.js')
 
 # А это то, что я нагородил (не используй это):
 # import os

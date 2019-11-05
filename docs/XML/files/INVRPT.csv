@@ -36,7 +36,7 @@ PRODUCTIDBUYER,O,Строка (35),Артикул в БД покупателя
 PRODUCTIDMDLS,O,Строка (35),Артикул в БД склада
 PRODUCTNAME,O,Строка (70),Описание продукта
 ACTUALQUANTITY,M,Число положительное,Фактическое кол-во
-ACTUALUNITS,O,Строка (3),Единицы измерения (см. Прил. 4) ﾧ
+ACTUALUNITS,O,Строка (3),`Единицы измерения <https://wiki.edi-n.com/ru/latest/XML/units_edi.html>`__ (см. Прил. 4) ﾧ
 ACTUALQUANTITYEND,O,Число положительное,Общий остаток на конец
 SOLDQUANTITY,O,Число положительное,Проданное кол-во
 SOLDUNITS,O,Строка (3),Единица измерения

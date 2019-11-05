@@ -79,7 +79,7 @@ INVOICEDQUANTITY,М,Число положительное,Количество �
 QUANTITYOFCUINTU,O,Число положительное,Количество в упаковке
 INVOICEDQUANTITYBEFORE, , , 
 INVOICEDQUANTITYAFTER, , , 
-INVOICEUNIT,O,Строка (3),Единицы измерения
+INVOICEUNIT,O,Строка (3),`Единицы измерения <https://wiki.edi-n.com/ru/latest/XML/units_edi.html>`__
 UNITPRICEBEFORE, , , 
 UNITPRICEAFTER, , , 
 UNITPRICE,М,Число десятичное,Цена за единицу (без НДС)

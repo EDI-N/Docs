@@ -35,12 +35,12 @@ PRODUCTGROUPCODE,O,Число (4),Код группы товара
 IDSUPPLIER,O (M-для Розетка),Строка (16),Артикул в БД поставщика
 IDBUYER,О,Строка (16),Артикул в БД покупателя
 MINORDERQUANTITY,O(M-для Розетка),Число положительное,Минимальное кол-во в заказе
-MINORDERQUANTITYUNIT,O,Строка (3),Единицы измерения
+MINORDERQUANTITYUNIT,O,Строка (3),`Единицы измерения <https://wiki.edi-n.com/ru/latest/XML/units_edi.html>`__
 MAXORDERQUANTITY,O,Число положительное,Максимальное кол-во в заказе
-MAXORDERQUANTITYUNIT,O,Строка (3),Единицы измерения
+MAXORDERQUANTITYUNIT,O,Строка (3),`Единицы измерения <https://wiki.edi-n.com/ru/latest/XML/units_edi.html>`__
 QUANTITYOFCUINTU,O,Число положительное,Кол-во в упаковке
-QUANTITYOFCUINTUUNIT,O,Строка (3),Единицы измерения
-IDNATIONAL,O,Строка (35),Код товара по национальному классификатору
+QUANTITYOFCUINTUUNIT,O,Строка (3),`Единицы измерения <https://wiki.edi-n.com/ru/latest/XML/units_edi.html>`__
+IDNATIONAL,O,Строка (35),Код товара по национальному классификатору (код УКТ ВЭД)
 IDINTERNATIONAL,O,Строка (35),Код товара по международному классификатору
 IDGPC,O,Строка (35),Код продукта соответствует Global Product Classification
 REPLACEPRODUCT,O,"Число (8, 10, 14)",Продукт для замены
@@ -54,15 +54,15 @@ PRODUCTNAME,M,Строка (75),Полное название продукта
 NEWPOSITION,O,"Число (1, 0)",Новинка
 PROMO,О,"Число (1, 0)",Акция
 DEPTH,O,Число положительное,Глубина
-DEPTHUNIT,O,Строка (3),Единицы измерения
+DEPTHUNIT,O,Строка (3),`Единицы измерения <https://wiki.edi-n.com/ru/latest/XML/units_edi.html>`__
 WIDTH,O,Число положительное,Ширина
-WIDTHUNIT,O,Строка (3),Единицы измерения
+WIDTHUNIT,O,Строка (3),`Единицы измерения <https://wiki.edi-n.com/ru/latest/XML/units_edi.html>`__
 HEIGHT,O,Число положительное,Высота
-HEIGHTUNIT,O,Строка (3),Единицы измерения
+HEIGHTUNIT,O,Строка (3),`Единицы измерения <https://wiki.edi-n.com/ru/latest/XML/units_edi.html>`__
 VOLUME,O,Число положительное,Объем
-VOLUMEUNIT,O,Строка (3),Единицы измерения
+VOLUMEUNIT,O,Строка (3),`Единицы измерения <https://wiki.edi-n.com/ru/latest/XML/units_edi.html>`__
 WEIGHT,O,Число положительное,Вес
-WEIGHTUNIT,O,Строка (3),Единицы измерения
+WEIGHTUNIT,O,Строка (3),`Единицы измерения <https://wiki.edi-n.com/ru/latest/XML/units_edi.html>`__
 **TEMPERATUREOFSTORAGE**, , ,Температура хранения (начало блока)
 FROM,O,Число [–100; 100],От (Температура хранения продукта указывается в градусах по Цельсию)
 TO,O,Число [–100; 100],До (Температура хранения продукта указывается в градусах по Цельсию)
@@ -76,7 +76,7 @@ POSITIONCURRENCY,O(M-для Розетка),Строка,"код валюты (U
 BALANCE,O,Число десятичное,Текущий остаток (поставщик)
 UNITPRICE,M,Число десятичное,Цена продукта без НДС
 PRICEWITHVAT,M,Число десятичное,Цена продукта c НДС
-UNIT,М,Строка (3),Единицы измерения
+UNIT,М,Строка (3),`Единицы измерения <https://wiki.edi-n.com/ru/latest/XML/units_edi.html>`__
 RETAILPRICE,O,Число десятичное,Рекомендованная розничная цена
 ADVICEPRICE,O,Число десятичное,Рекомендованная цена (государством)
 MAXORDERPRICE,O,Число десятичное,Максимальная розничная цена

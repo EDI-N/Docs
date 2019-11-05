@@ -40,8 +40,8 @@ CUSTOMSTARIFFNUMBER,О,Строка (35),Номер государственно
 QUANTITYOFCUINTU,O,Число положительное,Кол-во в упаковке
 PRICE,O,Число десятичное,Цена продукта
 VAT,O,Число положительное,"Ставка НДС, %"
-UNIT,O,Строка (3),Единицы измерения
-DELIVEREDUNIT,O,Строка (3),Единицы измерения
+UNIT,O,Строка (3),`Единицы измерения <https://wiki.edi-n.com/ru/latest/XML/units_edi.html>`__
+DELIVEREDUNIT,O,Строка (3),`Единицы измерения <https://wiki.edi-n.com/ru/latest/XML/units_edi.html>`__
 PRODUCTIDSUPPLIER,О,Строка (35),Артикул в БД поставщика
 BOTTLINGDATE,О,Дата (ГГГГ-ММ-ДД),Дата разлива
 **POSITION**, , ,Товарные позиции (окончание блока)

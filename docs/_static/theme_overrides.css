@@ -229,3 +229,25 @@
    color: #fff;
    top: 5px;
 }
+
+/* Для того, чтобы скрыть уродскую панель слева снизу */
+.rst-versions {
+   display: none;
+   position: fixed;
+   bottom: 0;
+   left: 0;
+   width: 300px;
+   color: #fcfcfc;
+   background: #1f1d1d;
+   font-family: "Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
+   z-index: 400;
+}
+
+   /* попытка сделать Галагу на 404 страницу */
+   
+.center{text-align:center}
+   #space-invaders {
+   margin: 0 auto;
+   display: block;
+   background: white
+}
