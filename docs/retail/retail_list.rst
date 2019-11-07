@@ -21,3 +21,6 @@
    Obmin_e_dokumentami_s_Meest_Express
    EDI-N_OKKO_instruction
    Retins_ATB_instruction
+   modern_expo_instruction
+   modern_expo_postavschuk_instruction
+
