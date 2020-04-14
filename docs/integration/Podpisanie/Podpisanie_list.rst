@@ -4,6 +4,6 @@
 .. toctree::
     :maxdepth: 1
   
-   E_Sign
+   E_Connector
    CryptoLibraries
   
