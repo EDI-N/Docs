@@ -40,7 +40,7 @@ extensions = [
 notfound_default_language = 'ru'
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['_templates']
+templates_path = ['_templatess']
 
 # добавил для возможности использования файлов .md
 from recommonmark.parser import CommonMarkParser
