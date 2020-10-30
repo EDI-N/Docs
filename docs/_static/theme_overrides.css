@@ -300,6 +300,7 @@
  
 #version-warning-banner p {
    display: inline;
+   background: transparent;
 }
  
 div.warning {
