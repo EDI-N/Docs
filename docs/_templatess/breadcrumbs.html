@@ -2,5 +2,13 @@
 
 <!-- Empty override file take the place of env/lib/python3.8/site-packages/sphinx_rtd_theme/breadcrumbs.html, which generates the top nav breadcrumbs. -->
 
+    {% block breadcrumbs %}
+      <li><a href="https://wiki.edin.ua/uk/latest/" class="icon icon-home"></a> &raquo;</li>
+        {% for doc in parents %}
+          <li><a href="{{ doc.link|e }}">{{ doc.title }}</a> &raquo;</li>
+        {% endfor %}
+      <li>{{ title }}</li>
+    {% endblock %}
+
 {% block breadcrumbs_aside %}
 {% endblock %}
