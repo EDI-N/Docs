@@ -431,8 +431,7 @@ epub_exclude_files = ['search.html']
 
 versionwarning_messages = {
     "latest": (
-        "<strong>Внимание:</strong> к сожалению эта версия wiki более не поддерживается. "
-        'Актуальная документация находится по <a href="https://wiki.edin.ua/uk/latest/">ссылке</a>.'
+        "<img src='https://wiki.edin.ua/en/latest/_static/Trident_b.png' alt='alternatetext' style='height:22px;'><strong><a href='https://bank.gov.ua/ua/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi'> Допомогти ЗСУ </a></strong>"
     ),
 }
 
