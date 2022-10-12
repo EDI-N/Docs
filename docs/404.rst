@@ -6,6 +6,8 @@
 
 Ой, сторінку не знайдено! Перейдіть на `головну <https://wiki.edin.ua>`__ сторінку.
 
+<p><strong><span style="color: #ff9900;  font-size: 28px;">Ой, сторінку не знайдено! Перейдіть на <a class="reference external" href="https://wiki.edin.ua">головну</a> сторінку.</span></strong></p>
+
 .. raw:: html
 
    <!DOCTYPE html>
