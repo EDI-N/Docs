@@ -162,7 +162,7 @@ html_js_files = [
 # documentation.
 
 html_theme_options = {
-    "logo_url": "https://readthedocs.org/",
+    "logo_url": "https://wiki.edin.ua",
     'logo_only': True,
     'display_version': False
 }
