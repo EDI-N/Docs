@@ -132,6 +132,10 @@ todo_include_todos = False
 # Это самый рабочий вариант:
 html_theme = 'sphinx_rtd_theme'
 
+html_theme_options = {
+    "showrelbartop": False
+}
+
 def setup(app):
     app.add_stylesheet('theme_overrides.css')
 
