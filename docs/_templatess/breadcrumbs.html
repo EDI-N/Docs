@@ -13,15 +13,15 @@
 {% endif %}
 
 {% if check_meta and 'github_url' in meta %}
-{% set display_github = True %}
+{% set display_github = False %}
 {% endif %}
 
 {% if check_meta and 'bitbucket_url' in meta %}
-{% set display_bitbucket = True %}
+{% set display_bitbucket = False %}
 {% endif %}
 
 {% if check_meta and 'gitlab_url' in meta %}
-{% set display_gitlab = True %}
+{% set display_gitlab = False %}
 {% endif %}
     <!-- Изначально планировалось, как костыльный селектор языка в бредкрамбсе -->
 
