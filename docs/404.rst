@@ -8,6 +8,8 @@
 
 .. raw:: html
    <p><strong><span style="color: #ff9900;  font-size: 28px;">Ой, сторінку не знайдено! Перейдіть на <a class="reference external" href="https://wiki.edin.ua">головну</a> сторінку.</span></strong></p>
+   
+<p>Для роботи з WEB сервісом Ви можете використовувати будь-який браузер (рекомендованим є <strong>Google Chrome</strong> останньої версії). Для входу до сервісу платформи необхідно <a class="reference external" href="https://wiki.edin.ua/uk/latest/general_2_0/User_registration.html#auth">Авторизуватись</a> : перейти за посиланням <a class="reference external" href="https://edo-v2.edin.ua/auth">https://edo-v2.edin.ua/auth</a>, ввести Ваш логін і пароль користувача, натиснути <strong>«Вхід»</strong>, як це зазначено на зображенні нижче:</p>
 
 .. raw:: html
 
