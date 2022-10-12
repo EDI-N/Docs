@@ -33,8 +33,10 @@ import os
 extensions = [
     'sphinx.ext.autodoc',
     'sphinxcontrib.contentui',
+    'sphinxcontrib.plantuml',
     'notfound.extension',
     'versionwarning.extension',
+    'sphinx_tabs.tabs',
 ]
 
 # for 404 page
